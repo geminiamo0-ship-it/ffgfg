@@ -1,0 +1,35 @@
+{
+  "id": 71,
+  "uworld_id": 71,
+  "text_html": "<p>A 12-year-old boy is brought to the emergency department by his parents because of severe pain in his right ankle since falling while playing soccer 30 minutes ago. He was running to kick the ball when he stepped in a hole and his foot twisted inward beneath him. He is not able to bear weight since the injury because of pain. Vital signs are within normal limits. Examination of the right ankle shows erythema and swelling. Pain is induced by passive inversion of the right foot. Compression of the distal tibia and fibula does not induce pain. X-rays of the ankle are shown. Which of the following structures is most likely injured in this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient presents with ankle pain, swelling, and erythema with inability to bear weight after an inversion injury. In the absence of a fracture, the most commonly damaged ligament of the lateral ankle is the anterior talofibular ligament (ATFL).</b></p><p>Key Concept: The ATFL is the most commonly torn ligament after an ankle inversion injury. In ankle sprains, patients usually present with swelling and tenderness around the ATFL without bony tenderness.</p><p>Explanation: The ligaments of the ankle are divided into medial, lateral, and syndesmotic ankle ligaments and are essential for maintaining the stability of the ankle. Lateral ankle ligament damage occurs from the more common inversion ankle injuries. The ATFL is the most commonly damaged lateral ligament and is usually disrupted first, with injury to the calcaneofibular ligament or posterior talofibular ligament occurring only after ATFL failure.</p><p>Differential: The ATFL is most likely to be damaged in this patient with an inversion ankle injury and a normal x-ray. The calcaneofibular is a lateral ankle ligament that would be damaged after the ATFL. The calcaneonavicular ligament and deltoid ligament complex are medial ligaments damaged in an eversion ankle injury. Syndesmotic ligament complex injury is unlikely given the normal x-ray (several normal appearing growth plates are observed).</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Calcaneofibular ligament is incorrect. Calcaneofibular ligament damage can be seen in inversion ankle injuries. However, it is unlikely that the calcaneofibular ligament would be damaged prior to the ATFL.</p><p>Choice C: Calcaneonavicular ligament is incorrect. The calcaneonavicular ligament, also known as the spring ligament, is a medial ligament that helps maintain the medial longitudinal arch. This ligament would not be damaged in an inversion ankle injury. Eversion, midfoot rotation, or traction injuries could more commonly precipitate a calcaneonavicular ligament injury.</p><p>Choice D: Deltoid ligament complex is incorrect. The deltoid ligament complex is the major combined ligament of the medial ankle and would be injured with eversion.</p><p>Choice E: Syndesmotic ligament complex is incorrect. The syndesmotic ligament complex is a collection of distal tibiofibular ligaments that maintain the integrity of the ankle joint. There is no indication on x-ray of malalignment of the bones of the ankle, which would be seen in a syndesmotic ligament complex injury.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [
+    "question_71_1.png"
+  ],
+  "options": [
+    {
+      "text_html": "Anterior talofibular ligament",
+      "is_correct": true
+    },
+    {
+      "text_html": "Calcaneofibular ligament",
+      "is_correct": false
+    },
+    {
+      "text_html": "Calcaneonavicular ligament",
+      "is_correct": false
+    },
+    {
+      "text_html": "Deltoid ligament complex",
+      "is_correct": false
+    },
+    {
+      "text_html": "Syndesmotic ligament complex",
+      "is_correct": false
+    }
+  ]
+}
