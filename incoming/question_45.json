@@ -1,0 +1,36 @@
+{
+  "id": 45,
+  "uworld_id": 45,
+  "text_html": "<p>A 45-year-old man is admitted to the hospital because of a 4-month history of fatigue, constipation, nausea, and decreased concentration; he also has had a 5-kg (11-lb) weight loss during this period. He appears cachectic. Physical examination shows generalized, diffuse weakness. Serum studies show a calcium concentration of 14 mg/dL. He is diagnosed with metastatic renal cell carcinoma. In addition to intravenous 0.9% saline and a bisphosphonate, a diuretic that enhances renal calcium excretion is prescribed. The most likely mechanism of action of this medication occurs at which of the following labeled locations in the diagram of a nephron?</p><img src=\"offline_media/45_stem_img_0.png\"/>",
+  "explanation_html": "<p><b>Educational Objective: Loop diuretics act at the thick ascending limb of the loop of Henle, which corresponds to the location labeled D on the diagram shown, to decrease solute and fluid reabsorption. Loop diuretics increase calcium secretion and may be used in cases of hypercalcemia, as in this patient.</b></p><p>Key Concept: The ascending limb of the loop of Henle is the site of action of loop diuretics. Examples of loop diuretics include furosemide, torsemide, bumetanide, and ethacrynic acid.</p><p>Explanation: Loop diuretics act on the sodium-potassium-chloride cotransporter to decrease solute reabsorption. As a result of decreased solute reabsorption, less water is reabsorbed by osmotic pull. This leads to a total decrease in body fluid volume or volume contraction. In addition, loop diuretics may result in electrolyte changes such as hyponatremia, hypokalemia, hypochloremia, hypomagnesemia, and hypocalcemia.</p><p>Differential: This patient presents with symptomatic hypercalcemia, which is treated with loop diuretics. The ascending limb of the loop of Henle, labeled D on the diagram shown, is the site of action of loop diuretics. The other labeled locations represent the site of action for different classes of diuretics that would not be used in hypercalcemia, or in the case of labels B and C, are not significant sites of diuretic action.</p><p>Incorrect Answers: A, B, C, E, and F.</p><p>Choice A: The proximal convoluted tubule is incorrect. The proximal convoluted tubule is the site for reabsorption of the majority of electrolytes (bicarbonate, sodium, chloride, phosphate, and potassium), water, uric acid, glucose, and amino acids. The proximal tubule is the site of action of carbonic anhydrase inhibitors (eg, acetazolamide) and osmotic diuretics (mannitol), which are not prescribed to treat hypercalcemia.</p><p>Choice B: The descending loop of Henle is incorrect. The descending limb of the loop of Henle passively reabsorbs water and is impermeable to sodium. It is not a significant site of diuretic action.</p><p>Choice C: The loop of Henle is incorrect. The loop of Henle is not a significant site of diuretic action. The thick ascending limb of the loop of Henle is more likely.</p><p>Choice E: The distal convoluted tubule is incorrect. Hydrochlorothiazide and other thiazide diuretics (eg, chlorthalidone, metolazone) inhibit sodium and chloride reabsorption in the distal convoluted tubule by inhibiting the action of the sodium-chloride cotransporter channel. These drugs result in urinary losses of sodium and potassium with associated water loss as well as an increase in serum calcium.</p><p>Choice F: The collecting duct is incorrect. The collecting duct is the terminal segment of the nephron and reabsorbs sodium and water while secreting potassium and protons, primarily through epithelial sodium channels and aquaporins. The collecting duct is the site of action of potassium-sparing diuretics (eg, spironolactone, eplerenone, triamterene, amiloride), which would not be prescribed for hypercalcemia.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "A.",
+      "is_correct": false
+    },
+    {
+      "text_html": "B.",
+      "is_correct": false
+    },
+    {
+      "text_html": "C.",
+      "is_correct": false
+    },
+    {
+      "text_html": "D.",
+      "is_correct": true
+    },
+    {
+      "text_html": "E.",
+      "is_correct": false
+    },
+    {
+      "text_html": "F.",
+      "is_correct": false
+    }
+  ]
+}
