@@ -1,0 +1,33 @@
+{
+  "id": 70,
+  "uworld_id": 70,
+  "text_html": "<p>A 50-year-old man with alcohol use disorder is brought to the emergency department because of a 1-day history of severe, colicky abdominal pain and fever. His temperature is 38.9°C (102°F). Serum studies show increased amylase activity. The primary cause of this patient's abdominal pain is premature activation of pancreatic enzymes that digest which of the following nutrients?</p>",
+  "explanation_html": "<p><b>Educational Objective: Acute pancreatitis is driven by the premature activation of proteases (enzymes that digest protein), particularly trypsin, within the pancreas. This cascade of enzyme activation leads to autodigestion of the pancreas and release of inflammatory mediators, mediating a systemic inflammatory response, and accounts for this patient's pain and increased amylase activity.</b></p><p>Key Concept: Acute pancreatitis is driven by the premature activation of proteases within pancreatic cells and ductules. Trypsin, which is responsible for activating all other proteases present in pancreatic secretions, is central to this process. This cascade of enzyme activation leads to autodigestion of the pancreas and release of inflammatory mediators, mediating a systemic inflammatory response.</p><p>Explanation: The centroacinar cells of the exocrine pancreas secrete digestive enzymes including amylase (starch digestion), lipases (fat digestion), and proteases (protein digestion). Proteases include trypsin, chymotrypsin, elastase, and carboxypeptidase. The proteases are secreted in inactive form, known as zymogens, to prevent autodigestion while in the pancreas. This is further supported by the secretion of bicarbonate by pancreatic ductal cells, which prevents pooling and early activation. Once the pancreatic secretions are delivered into the duodenum, brush border enzymes such as enterokinase cleave trypsinogen to trypsin. Once activated, trypsin activates other proenzymes as well as other trypsinogen molecules, continuing the cascade of activation.</p><p>Differential: Acute pancreatitis typically presents with epigastric abdominal pain that radiates to the back, along with nausea and emesis, often in a patient with a history of gallstones, alcohol use disorder, trauma, hypertriglyceridemia, or hypercalcemia. Laboratory studies often show increased amylase and lipase. This patient's presentation is consistent with acute pancreatitis.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: Nucleic acids is incorrect. While the exocrine pancreas does secrete nucleases for the digestion of DNA and RNA, they do not play a central role in the cascade of events driving acute pancreatitis.</p><p>Choice B: Phospholipids is incorrect. Phospholipase does play a role in the autodigestion of the pancreas and triggering of the inflammatory cascade; however, it must first be activated by trypsin, a protease.</p><p>Choice D and Choice E: Starches and triglycerides are incorrect. In acute pancreatitis, laboratory studies often show increased serum amylase and lipase as a result of autodigestion of pancreatic centroacinar cells, leaking these enzymes into the abdomen and circulation. However, trypsin is central to activation of the cascade that leads to autodigestion.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Nucleic acids",
+      "is_correct": false
+    },
+    {
+      "text_html": "Phospholipids",
+      "is_correct": false
+    },
+    {
+      "text_html": "Proteins",
+      "is_correct": true
+    },
+    {
+      "text_html": "Starches",
+      "is_correct": false
+    },
+    {
+      "text_html": "Triglycerides",
+      "is_correct": false
+    }
+  ]
+}
