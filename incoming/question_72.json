@@ -1,0 +1,33 @@
+{
+  "id": 72,
+  "uworld_id": 72,
+  "text_html": "<p>A 16-year-old boy is brought to the emergency department 15 minutes after being stung by a bee. His respirations are 25/min, and systolic blood pressure is 60 mm Hg; diastolic blood pressure is undetectable. Wheezing is heard over all lung fields. Physical examination shows hives and angioedema. In addition to other appropriate medications, intravenous epinephrine is administered. His pulse is now 150/min, and blood pressure is 140/80 mm Hg. The most likely cause of this patient's increase in pulse is targeting of which of the following types of adrenoreceptors by the medication?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient's increase in pulse following intravenous administration of epinephrine is due to stimulation of cardioselective β<sub>1</sub>-adrenoceptors.</b></p><p>Key Concept: Epinephrine is a nonselective adrenergic agonist that stimulates α- and β-adrenoreceptors, producing multiple physiologic effects throughout the body. In the heart, epinephrine increases chronotropy and inotropy, and in pulmonary circulation, epinephrine results in bronchodilation via smooth muscle relaxation.</p><p>Explanation: In anaphylaxis, epinephrine is first-line therapy and the only specific therapy shown to carry a mortality benefit. Stimulus of β<sub>1</sub>-adrenoreceptors in the heart increases pulse and contractility, resulting in tachycardia and increased cardiac output. Simultaneously, α<sub>1</sub>-mediated vasoconstriction improves blood pressure by increasing systemic vascular resistance, while β<sub>2</sub>-mediated bronchodilation relieves wheezing/bronchial obstruction. Additional adjunct therapies for anaphylaxis include corticosteroids, histamine blockers, antiemetics, and intravenous fluids.</p><p>Differential: While epinephrine is an agonist to multiple subtypes of α- and β-adrenoreceptors, tachycardia is primarily mediated by β<sub>1</sub>-adrenoceptors, with indirect contribution from β<sub>2</sub>-mediated vasodilation and reflex mechanisms.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: α<sub>1</sub> is incorrect. α<sub>1</sub>-Adrenoreceptors are found in vascular smooth muscle, and when bound by agonists, result in increased smooth muscle contraction. The resulting effect is increased vascular resistance leading to hypertension. Norepinephrine binds α<sub>1</sub>-adrenoreceptors with greater affinity than epinephrine.</p><p>Choice B: α<sub>2</sub> is incorrect. α<sub>2</sub>-Adrenoreceptors are found mostly in the nervous system and in the gastrointestinal tract, and, when stimulated, result in decreased sympathetic activity. Decreased sympathetic activity leads to bradycardia, not tachycardia.</p><p>Choice D: β<sub>2</sub> is not the most likely cause of this patient's increase in pulse. β<sub>2</sub>-Adrenoreceptors are found on both bronchial and vascular smooth muscle, where their stimulus results in decreased smooth muscle tone leading to bronchodilation and vasodilation. β<sub>2</sub>-adrenoceptors do not directly mediate tachycardia.</p><p>Choice E: β<sub>3</sub> is incorrect. β<sub>3</sub>-Adrenoreceptors are found in multiple tissues including adipose, the urinary bladder and prostate, and the gastrointestinal tract. Their stimulus primarily results in lipolysis and smooth muscle relaxation.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "α<sub>1</sub>",
+      "is_correct": false
+    },
+    {
+      "text_html": "α<sub>2</sub>",
+      "is_correct": false
+    },
+    {
+      "text_html": "β<sub>1</sub>",
+      "is_correct": true
+    },
+    {
+      "text_html": "β<sub>2</sub>",
+      "is_correct": false
+    },
+    {
+      "text_html": "β<sub>3</sub>",
+      "is_correct": false
+    }
+  ]
+}
