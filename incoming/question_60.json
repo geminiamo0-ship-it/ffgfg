@@ -1,0 +1,32 @@
+{
+  "id": 60,
+  "uworld_id": 60,
+  "text_html": "<p>A 45-year-old woman comes to the physician because of increasingly frequent menses during the past 6 months. Menses now occur every 23 to 25 days rather than her usual 30-day intervals. She also has had night sweats, vaginal dryness, and emotional lability. Physical examination shows no abnormalities. Which of the following serum concentrations is most likely in this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: The most likely serum concentration in this patient is decreased inhibin-A. Perimenopause is characterized by decreased concentrations of estrogen, progesterone, and inhibin. Symptoms of perimenopause include cycle irregularity and vasomotor symptoms, such as hot flashes and night sweats.</b></p><p>Key Concept: Inhibin is produced by the ovary and placenta and negatively feeds back on the pituitary, diminishing the release of follicle-stimulating hormone (FSH). As ovarian function declines in the perimenopausal state, ovarian hormones, including inhibin-A, decrease. This patient has increasingly frequent menses, hot flashes, vaginal dryness, and mood changes, consistent with the perimenopausal transition.</p><p>Explanation: Inhibin-A is produced by ovarian granulosa cells and normally suppresses pituitary FSH secretion. As ovarian follicle number declines during perimenopause, inhibin concentrations fall, leading to increased FSH secretion via loss of negative feedback and resultant menstrual cycle irregularity. Estrogen concentrations can fluctuate during this period, contributing to vasomotor and emotional symptoms characterizing perimenopause. Decreased inhibin is a measurable change in reproductive aging. Inhibin concentrations are also used as biomarkers in pregnancy screening.</p><p>Differential: The most likely serum concentration result in this patient is decreased inhibin-A, which is a measurable hormonal change in perimenopause and leads to increases (not decreases) in FSH. Perimenopause does not alter concentrations of TSH, growth hormone, or prolactin.</p><p>Incorrect Answers: A, C, D, and E.</p><p>Choice A: Decreased follicle-stimulating hormone is incorrect. Decreased (not increased) FSH is a result of negative feedback from inhibin-A. With the loss of inhibin-A, FSH concentrations will increase.</p><p>Choice C: Decreased thyroid-stimulating hormone is incorrect. TSH concentrations are not the causative change in perimenopause. This patient’s night sweats, emotional lability, and irregular menses are more likely explained by reproductive hormonal changes.</p><p>Choice D: Increased growth hormone is incorrect. Growth hormone concentrations do not significantly change during menopause.</p><p>Choice E: Increased prolactin is incorrect. Prolactin concentrations fluctuate during pregnancy and breast-feeding, in response to thyroid hormones and certain medications (eg, antipsychotics), and in the setting of pituitary tumors. There is no known relationship between perimenopause and increased prolactin concentrations.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "Decreased follicle-stimulating hormone",
+      "is_correct": false
+    },
+    {
+      "text_html": "Decreased inhibin-A",
+      "is_correct": true
+    },
+    {
+      "text_html": "Decreased thyroid-stimulating hormone",
+      "is_correct": false
+    },
+    {
+      "text_html": "Increased growth hormone",
+      "is_correct": false
+    },
+    {
+      "text_html": "Increased prolactin",
+      "is_correct": false
+    }
+  ]
+}
