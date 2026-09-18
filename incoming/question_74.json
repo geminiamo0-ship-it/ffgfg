@@ -1,0 +1,33 @@
+{
+  "id": 74,
+  "uworld_id": 74,
+  "text_html": "<p>A 66-year-old man comes to the office because of a 3-month history of difficulty urinating, including straining to initiate a urine stream and increased nighttime urination. Rectal examination shows a firm, smooth prostate. Serum and urine studies otherwise show no abnormalities. Postvoid residual volume shows 200 mL of urine on ultrasonography. Urethrocystoscopy shows a normal prostatic urethra and near-complete obstruction of the bladder outlet. Which of the following is the most likely cause of the enlarged prostate in this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: Symptoms of an enlarged prostate include urinary dribbling and incontinence, difficulty starting or maintaining a urinary stream, nocturia, the need to frequently urinate, and incomplete voiding. The most likely cause of this patient's difficulty with urination and increased nighttime urination is due to proliferation of glandular epithelium resulting in benign prostatic hyperplasia (BPH).</b></p><p>Evaluation: BPH affects middle-aged and older male patients and occurs because of excess growth of tissue in the central zone of the prostate causing lower urinary tract obstruction.</p><p>Definition: Symptoms are typically insidious in onset, chronic, and progressive. Chronic outlet obstruction leads to urinary retention and may cause the formation of bladder diverticula or lead to hydronephrosis. Patients with urinary retention may develop urinary tract infections as a result of the loss of hydrodynamic flushing of bacteria out of the urethra. Diagnosis is made based on the history, physical examination, and urodynamic testing, along with ruling out alternate diagnoses (eg, prostatic malignancy).</p><p>Prevention: Obesity, diabetes mellitus, and physical inactivity may be modifiable risk factors to decrease the risk for developing BPH.</p><p>Treatment: Treatment of BPH is with supportive care, α-adrenergic blockers (eg, tamsulosin), and 5α-reductase inhibitors (eg, finasteride). Surgery may be indicated in refractory cases.</p><p>Differential: This 66-year-old male patient with a 3-month history of difficulty with urination has been identified to have a postvoid residual volume of 200 mL with near-complete obstruction of the bladder outlet. Proliferation of the glandular epithelium most likely caused the enlarged prostate identified in this patient.</p><p>Incorrect Answers: A, B, C, and D.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Accumulation of concretions",
+      "is_correct": false
+    },
+    {
+      "text_html": "Granulomas in the fibromuscular stroma",
+      "is_correct": false
+    },
+    {
+      "text_html": "Hyperplasia of the urethra",
+      "is_correct": false
+    },
+    {
+      "text_html": "Impaired release of seminal fluid components",
+      "is_correct": false
+    },
+    {
+      "text_html": "Proliferation of glandular epithelium",
+      "is_correct": true
+    }
+  ]
+}
