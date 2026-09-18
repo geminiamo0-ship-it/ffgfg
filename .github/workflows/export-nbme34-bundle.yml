@@ -1,0 +1,36 @@
+name: Export NBME 34 Bundle
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/export-nbme34-bundle.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build ZIP bundle
+        shell: bash
+        run: |
+          mkdir -p export
+          cp my_course_bank.db export/
+          [ -f DB_STATUS.md ] && cp DB_STATUS.md export/
+          [ -d offline_media ] && cp -R offline_media export/
+          if [ -d incoming ]; then
+            mkdir -p export/incoming
+            find incoming -maxdepth 1 -type f \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' -o -name '*.svg' \) -exec cp {} export/incoming/ \;
+          fi
+          cd export
+          zip -r ../NBME34_current_bundle.zip .
+      - name: Upload ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: NBME34-current-bundle
+          path: NBME34_current_bundle.zip
+          if-no-files-found: error
+          retention-days: 7
