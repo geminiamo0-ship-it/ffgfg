@@ -1,0 +1,33 @@
+{
+  "id": 79,
+  "uworld_id": 79,
+  "text_html": "<p>A 28-year-old woman, gravida 2, para 2, comes to the physician because she has not had a menstrual period for 2 years. Her menses had occurred at regular 28-day intervals before her youngest child was born 3 years ago. Physical and pelvic examinations show no abnormalities. The result of a pregnancy test is negative. An endometrial biopsy specimen shows aggregates of intermediate trophoblastic cells with scattered mitoses, but no significant atypia. There are no chorionic villi or identifiable syncytiotrophoblastic cells. Which of the following is the most likely diagnosis?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient is presenting with absent menses and is found to have abnormal growth of trophoblastic cells in the endometrium when not pregnant. This presentation is consistent with placental site trophoblastic tumor (PSTT), which is characterized by proliferation of intermediate trophoblastic cells without chorionic villi or syncytiotrophoblasts.</b></p><p>Evaluation: This patient has prolonged amenorrhea following pregnancy, and her endometrial biopsy shows intermediate trophoblastic cells with mitoses but no villi or syncytiotrophoblasts. This histopathologic result is classic for PSTT.</p><p>Definition: PSTT is a rare gestational trophoblastic neoplasm arising from intermediate trophoblasts at the implantation site. PSTT typically presents months to years after pregnancy and produces decreased concentrations of human chorionic gonadotropin compared with other trophoblastic tumors. PSTT tends to grow locally and invade the myometrium but metastasizes less frequently than choriocarcinoma.</p><p>Prevention: There is no specific known prevention for PSTT.</p><p>Treatment: Management of PSTT usually involves hysterectomy; however, treatment is tailored to grade and stage. Some patients may benefit from chemotherapy. Human chorionic gonadotropin concentrations should be monitored during and after treatment.</p><p>Differential: The absence of chorionic villi and syncytiotrophoblasts distinguishes PSTT from hydatidiform mole and choriocarcinoma. Trophoblasts are not found in carcinosarcoma.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Carcinosarcoma (malignant müllerian mixed tumor) is incorrect. Carcinosarcoma is a malignant uterine tumor composed of epithelial and mesenchymal/stromal elements, not trophoblasts as in this case.</p><p>Choice B: Choriocarcinoma is incorrect. Choriocarcinoma is a rare gestational tumor composed primarily of syncytiotrophoblasts. This patient’s tumor did not contain syncytiotrophoblastic cells.</p><p>Choice C and Choice D: Invasive hydatidiform mole and partial hydatidiform mole are incorrect. Invasive and partial hydatidiform moles present with chorionic villi with or without invasion of the myometrium, respectively. This patient’s tumor showed no chorionic villi.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Carcinosarcoma (malignant müllerian mixed tumor)",
+      "is_correct": false
+    },
+    {
+      "text_html": "Choriocarcinoma",
+      "is_correct": false
+    },
+    {
+      "text_html": "Invasive hydatidiform mole",
+      "is_correct": false
+    },
+    {
+      "text_html": "Partial hydatidiform mole",
+      "is_correct": false
+    },
+    {
+      "text_html": "Placental site trophoblastic tumor",
+      "is_correct": true
+    }
+  ]
+}
