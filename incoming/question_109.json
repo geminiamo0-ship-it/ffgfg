@@ -1,0 +1,33 @@
+{
+  "id": 109,
+  "uworld_id": 109,
+  "text_html": "<p>A 26-year-old man comes to the office because of a 3-day history of pain and swelling of his left testicle. He also has had increased pain with urination and increased urinary urgency and frequency during this period. He has not had nausea or vomiting. One week ago, he returned from a 2-week trip to the Caribbean with his new girlfriend. He appears uncomfortable. His temperature is 38.0°C (100.4°F), pulse is 78/min, respirations are 16/min, and blood pressure is 120/73 mm Hg. Examination of the left side of the scrotum shows mild erythema and induration. Palpation of the left testis produces pain. Elevation of the left side of the scrotum decreases the pain. Which of the following is the most likely cause of the findings in this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient is presenting with pain and swelling of the left testicle, which is alleviated with elevation, in addition to dysuria, urinary frequency, and urinary urgency, which raises concern for a diagnosis of epididymitis. The most likely cause of this patient’s findings is an ascending <i>Chlamydia trachomatis</i> infection.</b></p><p>Evaluation: Epididymitis typically presents with fever, purulent urethral discharge, and pain localized to one testis, which may be alleviated with elevation of the hemiscrotum (distinguishing the pain of epididymitis from that of testicular torsion, which is not alleviated by this maneuver).</p><p>Definition: Epididymitis may develop as a result of an infection with <i>Neisseria gonorrhoeae</i> or <i>C trachomatis</i>. The diagnosis is confirmed with urine nucleic acid amplification.</p><p>Prevention: Risk factors for sexually transmitted infections include adolescence, multiple sexual partners, and not using barrier contraception such as condoms.</p><p>Treatment: Prompt identification and treatment of sexually transmitted infections can prevent spread to or reinfection of sexual partners and can prevent complications such as pelvic inflammatory disease (in women) and sterility. Combination therapy with intramuscular ceftriaxone and oral azithromycin is the most commonly used regimen and provides good coverage against <i>N gonorrhoeae</i> and <i>C trachomatis</i>, respectively.</p><p>Differential: This 26-year-old male patient presents with findings of left testicle pain and swelling, which is improved with elevation, as well as increased temperature, dysuria, urinary urgency, and urinary frequency. These symptoms and examination findings are most consistent with an ascending <i>C trachomatis</i> infection.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Herniation of the small intestine into the scrotum is incorrect. An inguinal hernia is an anatomic defect in which abdominal contents may herniate into the scrotum. These contents may become incarcerated with a subsequent need to be manually reduced to prevent ischemia of the sac contents. An inguinal hernia commonly presents with a scrotal mass and associated dull abdominal pain.</p><p>Choice C: Inappropriately high attachment of the tunica vaginalis testis is incorrect. An inappropriately high attachment of the tunica vaginalis testis results in an increased risk for testicular torsion. Testicular torsion classically presents with acute testicular pain, tenderness to palpation, scrotal swelling, and an absent cremasteric reflex.</p><p>Choice D: Neoplastic proliferation of germ cells is incorrect. Testicular cancer typically presents with a painless, firm nodule in the testis that is commonly asymptomatic. The patient’s symptoms in this case are more consistent with epididymitis.</p><p>Choice E: Systemic mumps virus infection is incorrect. Mumps orchitis refers to inflammation of the testes that results from an infection with the paramyxovirus that causes mumps. The patient in this case does not have other clinical manifestations of mumps, which may include fever, myalgias, and fatigue, as well as parotid gland swelling.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Ascending <i>Chlamydia trachomatis</i> infection",
+      "is_correct": true
+    },
+    {
+      "text_html": "Herniation of the small intestine into the scrotum",
+      "is_correct": false
+    },
+    {
+      "text_html": "Inappropriately high attachment of the tunica vaginalis testis",
+      "is_correct": false
+    },
+    {
+      "text_html": "Neoplastic proliferation of germ cells",
+      "is_correct": false
+    },
+    {
+      "text_html": "Systemic mumps virus infection",
+      "is_correct": false
+    }
+  ]
+}
