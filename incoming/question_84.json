@@ -1,0 +1,35 @@
+{
+  "id": 84,
+  "uworld_id": 84,
+  "text_html": "<p>A 72-year-old woman comes to the office as a new patient because she recently moved to the area from Texas. She has no history of major medical illness and takes no medications. Vital signs are within normal limits. A photograph of the patient's hands is shown. There are similar findings over the upper back and upper extremities. When questioned about the macules, the patient says that their appearance has not changed over the years. Physical examination shows no other abnormalities. The most likely cause of the findings in this patient is an increased number of cells originating in which of the following skin strata?</p><img src=\"offline_media/question_84_1.png\"/>",
+  "explanation_html": "<p><b>Educational Objective: The asymmetric, evenly brown macules located in sun-exposed areas on this patient’s body are consistent with solar lentigines, which arise from an increased number of melanocytes in the stratum basale.</b></p><p>Evaluation: Solar lentigines are benign pigmented epidermal growths. They are common in older patients and patients with a history of significant sun exposure. Clinically, they present as well-demarcated, asymmetric, brown macules and patches.</p><p>Definition: The stratum basale (basal layer, or stratum germinativum) is the deepest layer of the epidermis, consisting of a single layer of cuboidal to columnar keratinocyte stem cells that rest on the basement membrane at the dermal-epidermal junction. Solar lentigines result from chronic UV-induced melanocyte hyperactivity and abnormal retention of melanin within basal keratinocytes, producing localized epidermal hyperpigmentation without malignant transformation.</p><p>Prevention: Adequate sun protection may prevent the development of solar lentigines.</p><p>Treatment: No treatment is required of these benign lesions.</p><p>Differential: Solar lentigines result from proliferation of melanocytes in the stratum basale, distinguishing it from the stratum spinosum (keratinocyte cohesion), granulosum (keratohyalin granules and barrier formation), lucidum (a thin, translucent layer present only in thick skin), and corneum (terminally differentiated, anucleate keratinized cells forming the skin barrier).</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Corneum is incorrect. The stratum corneum is the most superficial layer of epidermis. In psoriasis there is an over-proliferation of epidermal cells, leading to well-demarcated plaques with overlying scale. Plaque color may appear pink or red in lighter skin tones and violaceous, brown, or hyperpigmented in darker skin tones. This scale results from retained keratinocytes in the stratum corneum.</p><p>Choice C: Granulosum is incorrect. This stratum granulosum is below the stratum corneum. Cells in the stratum granulosum are more basophilic because of the presence of intracellular granules. Hypergranulosis or proliferation of cells in the stratum granulosum is seen in viral warts and lichen planus.</p><p>Choice D: Lucidum is incorrect. The stratum lucidum is between the stratum corneum and stratum granulosum on the acral surfaces of the palms and soles. Solar lentigines are associated with over proliferation of melanocytes in the stratum basale, as opposed to the stratum lucidum.</p><p>Choice D: Lucidum is incorrect. The stratum lucidum is between the stratum corneum and stratum granulosum on the acral surfaces of the palms and soles. Solar lentigines are associated with over proliferation of melanocytes in the stratum basale, as opposed to the stratum lucidum.</p><p>Choice E: Spinosum is incorrect. The stratum spinosum resides between stratum basale and stratum granulosum. The stratum spinosum is affected in several conditions including eczema, contact dermatitis, and pemphigus vulgaris.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [
+    "question_84_1.png"
+  ],
+  "options": [
+    {
+      "text_html": "Basale",
+      "is_correct": true
+    },
+    {
+      "text_html": "Corneum",
+      "is_correct": false
+    },
+    {
+      "text_html": "Granulosum",
+      "is_correct": false
+    },
+    {
+      "text_html": "Lucidum",
+      "is_correct": false
+    },
+    {
+      "text_html": "Spinosum",
+      "is_correct": false
+    }
+  ]
+}
