@@ -1,0 +1,28 @@
+{
+  "id": 63,
+  "uworld_id": 63,
+  "text_html": "<p>A 53-year-old man comes to the office because of a 3-month history of difficulty obtaining and maintaining an erection during sexual activity with his wife. He says his wife has been frustrated with this problem and has demanded that he seek help. He has normal erections when awakening in the morning. The patient has hyperlipidemia and generalized anxiety disorder well controlled with atorvastatin and escitalopram, respectively. There have been no changes in medication dosages during the past 3 years. He has smoked four cigarettes daily for 30 years. He drinks three 12-oz beers weekly. He does not use illicit drugs. He is 175 cm (5 ft 9 in) tall and weighs 88 kg (194 lb); BMI is 29 kg/m<sup>2</sup>. Vital signs are within normal limits. Physical and mental status examinations show no abnormalities. Results of serum thyroid-stimulating hormone and testosterone concentration measurements are pending. Which of the following is most appropriate to consider when determining whether additional testing is indicated?</p>",
+  "explanation_html": "<p><b>Educational Objective: Distinguishing psychogenic erectile dysfunction relies heavily on clinical history, such as the presence of normal nocturnal or morning erections. Psychosocial factors, including relationship stress or anxiety around ability to perform sexually, are key considerations when determining the need for further diagnostic testing.</b></p><p>Evaluation: Patients with psychogenic erectile dysfunction typically report normal spontaneous erections (eg, nocturnal or morning erections) but difficulty during partnered sexual activity. Evaluation focuses on identifying psychological or interpersonal factors rather than immediately pursuing additional laboratory studies or vascular testing.</p><p>Definition: Erectile dysfunction is the persistent inability to achieve or maintain an erection sufficient for satisfactory sexual performance. It can be categorized into organic causes (vascular, neurologic, hormonal, medication-induced) and psychogenic causes (stress, anxiety, relationship conflict). The presence of normal nocturnal erections suggests intact physiologic mechanisms and points toward a psychogenic cause. Common contributing psychogenic factors include performance anxiety, depression, and interpersonal difficulties. In such cases, further medical testing is often unnecessary unless history suggests an organic cause.</p><p>Prevention: Prevention involves managing cardiovascular risk factors and addressing psychological stressors early. Maintaining open communication in relationships may also decrease risk for psychogenic erectile dysfunction.</p><p>Treatment: Treatment of psychogenic erectile dysfunction includes psychotherapy, couples counseling, and possibly pharmacologic therapy. Addressing underlying relationship issues is often essential for long-term improvement.</p><p>Differential: This patient has normal morning erections but difficulty during intercourse, indicating a psychogenic cause rather than organic disease. Therefore, assessing the quality of his relationship is most important before pursuing further testing.</p><p>Incorrect Answers: A, B, and C.</p><p>Choice A: Amount of alcohol consumption is incorrect. This patient’s alcohol intake is minimal and unlikely to cause erectile dysfunction. Chronic heavy alcohol use, not mild consumption, is typically associated with sexual dysfunction.</p><p>Choice B: BMI is incorrect. Although obesity is a risk factor for erectile dysfunction, the presence of normal morning erections suggests intact physiology. Therefore, BMI is less relevant in determining the need for further testing in this patient’s case.</p><p>Choice C: Escitalopram dosage is incorrect. Selective serotonin reuptake inhibitors like escitalopram can cause sexual dysfunction, but this patient has been on a stable dose for 3 years without prior issues. The timing and presence of normal erections make medication side effects less likely.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "Amount of alcohol consumption",
+      "is_correct": false
+    },
+    {
+      "text_html": "BMI",
+      "is_correct": false
+    },
+    {
+      "text_html": "Escitalopram dosage",
+      "is_correct": false
+    },
+    {
+      "text_html": "Quality of the patient’s marital relationship",
+      "is_correct": true
+    }
+  ]
+}
