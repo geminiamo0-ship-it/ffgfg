@@ -1,0 +1,33 @@
+{
+  "id": 83,
+  "uworld_id": 83,
+  "text_html": "<p>A 43-year-old man with chronic hepatic disease and hepatitis C comes to the emergency department because of a 2-day history of fever and an unhealed wound on his right hand. He says he cut his right hand 3 days ago while collecting shellfish. His temperature is 39.5°C (103.1°F), pulse is 132/min, respirations are 22/min, and blood pressure is 90/50 mm Hg. Physical examination shows an edematous, mottled forearm. There is a 1-cm laceration over the right proximal second phalanx with hemorrhagic bullous lesions at the site of the wound. His leukocyte count is 23,000/mm³ (78% segmented neutrophils, 10% bands, and 12% lymphocytes). An x-ray of the right forearm shows gas within fascial planes. Which of the following is the most likely causal infectious agent?</p>",
+  "explanation_html": "<p><b>Educational Objective: In this patient with hepatitis C and sepsis in the setting of necrotizing infection following exposure to shellfish, the most likely causal infectious agent is <i>Vibrio vulnificus</i>.</b></p><p><b>Educational Objective: In this patient with hepatitis C and sepsis in the setting of necrotizing infection following exposure to shellfish, the most likely causal infectious agent is <i>Vibrio vulnificus</i>.</b></p><p>Evaluation: Patients with a history of shellfish or seawater exposure that develop a lesion at the site of a wound should be evaluated for <i>V vulnificus</i> infection. Patients with underlying liver disease and diabetes mellitus may have a more severe clinical presentation. <i>V vulnificus</i> infections can rapidly progress to necrotizing fasciitis and more commonly are associated with hemorrhagic bullous lesions, palpable crepitus, and ecchymosis that develop soon after infection. Sepsis may be present at the time of presentation or develop soon after initial presentation.</p><p>Definition: <i>V vulnificus</i> is a bacterium associated with shellfish that may cause watery diarrhea, wound infections, and septicemia in at-risk individuals. <i>Vibrio</i> species release exotoxins, including lipopolysaccharides that may trigger sepsis in at-risk patients.</p><p>Prevention: Patients with a history of <i>V vulnificus</i> infection should avoid working with or wear personal protective equipment when working with shellfish.</p><p>Treatment: Management of <i>V vulnificus</i> infection includes intravenous antibiotic therapy and surgical debridement of infected wounds. Despite treatment, patients with <i>V vulnificus</i> infection have a high mortality rate, which is highest in patients with underlying liver disease.</p><p>Differential: In a patient with hepatitis C that presents with necrotizing infection and sepsis after a wound was exposed to shellfish, the most likely causal infectious agent is <i>V vulnificus</i>. This organism is strongly associated with marine and shellfish exposures, unlike other possible organisms, which are associated with freshwater, contaminated soil, animal bites, or nonmarine exposures.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: <i>Aeromonas hydrophila</i> is incorrect. <i>Aeromonas</i> species are gram-negative rods present in freshwater sources. <i>A hydrophila</i> infections are associated with gastroenteritis or may cause wound infections when a patient is exposed to contaminated water. This patient's clinical presentation is most consistent with <i>V vulnificus</i> infection.</p><p>Choice B: <i>Bacillus anthracis</i> is incorrect. <i>B anthracis</i> are gram-positive rods that cause anthrax. Cutaneous anthrax from contact with contaminated soil is the most common source of infection. In these patients, an eschar forms at the site of contact with <i>B anthracis</i>. Inhaled anthrax, associated with a high mortality rate, is characterized by an initial flu-like syndrome, chest discomfort, diaphoresis, and body aches that may rapidly progress to death.</p><p>Choice D: <i>Staphylococcus aureus</i> is incorrect. <i>S aureus</i> presents with several clinical variants, which depend on the strain of <i>Staphylococcus</i> species. One common variant, impetigo, presents with initial pustules at sites of involvement, which produce honey-color crusting. Treatment may involve the use of topical antibiotics, including mupirocin, or oral antibiotics.</p><p>Choice B: <i>Bacillus anthracis</i> is incorrect. <i>B anthracis</i> are gram-positive rods that cause anthrax. Cutaneous anthrax from contact with contaminated soil is the most common source of infection. In these patients, an eschar forms at the site of contact with <i>B anthracis</i>. Inhaled anthrax, associated with a high mortality rate, is characterized by an initial flu-like syndrome, chest discomfort, diaphoresis, and body aches that may rapidly progress to death.</p><p>Choice C: <i>Pasteurella multocida</i> is incorrect. <i>P multocida</i> infection is most often transmitted by dog or cat bites. Animal bites are often contaminated with other organisms and treated with oral antibiotics, including amoxicillin-clavulanic acid.</p><p>Choice D: <i>Staphylococcus aureus</i> is incorrect. <i>S aureus</i> presents with several clinical variants, which depend on the strain of <i>Staphylococcus</i> species. One common variant, impetigo, presents with initial pustules at sites of involvement, which produce honey-color crusting. Treatment may involve the use of topical antibiotics, including mupirocin, or oral antibiotics.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "<i>Aeromonas hydrophila</i>",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Bacillus anthracis</i>",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Pasteurella multocida</i>",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Staphylococcus aureus</i>",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Vibrio vulnificus</i>",
+      "is_correct": true
+    }
+  ]
+}
