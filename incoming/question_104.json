@@ -1,0 +1,35 @@
+{
+  "id": 104,
+  "uworld_id": 104,
+  "text_html": "<p>A 72-year-old man comes to the office because of a 6-week history of fever and nonproductive cough. His temperature is 38°C (100.4°F), pulse is 72/min, respirations are 18/min, and blood pressure is 130/75 mm Hg. Physical examination shows crackles over the apex of the right lung. A chest x-ray shows a 2-cm right upper lobe cavity. A photomicrograph of an acid-fast (Ziehl-Neelsen) stain of sputum is shown. Which of the following best describes the mechanism responsible for the pathogenicity of this causal infectious agent?</p><img src=\"offline_media/question_104_1.png\"/>",
+  "explanation_html": "<p><b>Educational Objective: Chronic pulmonary infection by <i>Mycobacterium tuberculosis</i> results from intracellular survival and replication within host macrophages, a key feature of its pathogenicity and persistence.</b></p><p>Key Concept: Some pathogens persist by avoiding destruction within immune cells. <i>M tuberculosis</i> survives inside macrophages by inhibiting phagolysosome fusion, allowing chronic infection and granuloma formation.</p><p>Explanation: This patient’s subacute symptoms, apical lung involvement, cavitary lesion, and positive acid-fast stain are consistent with pulmonary tuberculosis. After inhalation, <i>M tuberculosis</i> is phagocytosed by alveolar macrophages but inhibits phagosome maturation, preventing fusion with lysosomes. This intracellular survival allows continued replication and triggers a type IV (delayed) hypersensitivity reaction mediated by T lymphocytes. Granulomas form to contain the organism, and progressive tissue destruction can lead to cavitation, particularly in the upper lobes where oxygen tension is highest.</p><p>Differential: This older patient’s chronic time course, apical cavitary lesion, and acid-fast bacilli are most suggestive of tuberculosis. The intracellular survival mechanism of <i>M tuberculosis</i> distinguishes it from acute toxin-producing or primarily extracellular bacteria.</p><p>Incorrect Answers: A, B, C, and E.</p><p>Choice A: Endotoxin release is incorrect. Endotoxin (lipopolysaccharide) is found in gram-negative bacteria, whereas <i>M tuberculosis</i> is an acid-fast organism with a mycolic acid–rich cell wall. Endotoxin can cause high fevers and chills.</p><p>Choice B: Exotoxin release is incorrect. <i>M tuberculosis</i> does not cause disease through exotoxin production. Its pathology results from host immune responses to persistent intracellular infection. By contrast, <i>Staphylococcus aureus</i> can produce exotoxin that is responsible for its pathogenicity.</p><p>Choice C: Expression of adhesins is incorrect. While adhesins are critical for early attachment and entry of <i>M tuberculosis</i> into host cells, they do not explain the disease’s hallmark feature, intracellular survival within macrophages, which depends on downstream mechanisms that inhibit macrophage-killing pathways.</p><p>Choice E: Superantigen production is incorrect. Superantigens cause massive, nonspecific T-lymphocyte activation and acute systemic illness, which is inconsistent with this patient’s chronic presentation. <i>S aureus</i> superantigen exotoxins, most notably toxic shock syndrome toxin-1 (TSST-1), are classic examples.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [
+    "question_104_1.png"
+  ],
+  "options": [
+    {
+      "text_html": "Endotoxin release",
+      "is_correct": false
+    },
+    {
+      "text_html": "Exotoxin release",
+      "is_correct": false
+    },
+    {
+      "text_html": "Expression of adhesins",
+      "is_correct": false
+    },
+    {
+      "text_html": "Intracellular survival",
+      "is_correct": true
+    },
+    {
+      "text_html": "Superantigen production",
+      "is_correct": false
+    }
+  ]
+}
