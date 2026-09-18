@@ -1,0 +1,33 @@
+{
+  "id": 105,
+  "uworld_id": 105,
+  "text_html": "<p>A 32-year-old man comes to the physician because of bloating, flatulence, and watery diarrhea for the past 6 weeks. He has lost 9 kg (20 lb) over the past 2 months. He is 193 cm (6 ft 4 in) tall and weighs 63 kg (140 lb); BMI is 17 kg/m². He is pale, and his temples appear sunken. Examination shows numerous ecchymoses, cheilosis, glossitis, and bipedal edema. The most likely cause of the appearance of his temples is a deficiency of which of the following?</p>",
+  "explanation_html": "<p><b>Educational Objective: Subacute to chronic malabsorptive gastrointestinal illness accompanied by weight loss and signs of muscle wasting, as seen in this patient, is consistent with severe protein-calorie malnutrition.</b></p><p>Key Concept: Severe malnutrition from malabsorption classically presents with muscle wasting from protein depletion, cheilosis and glossitis from vitamin B complex deficiencies, ecchymoses from vitamin K deficiency, and bipedal edema from hypoalbuminemia.</p><p>Explanation: Malnutrition results from either limited caloric or specific nutrient intake, increased demand for calories or nutrients with inadequate supply, or failure to absorb appropriately consumed nutrients, among other causes. Malnutrition leads to progressive depletion of vitamins, micronutrients, and protein stores as the patient’s inherent reserves are consumed for cell metabolism. Examples of malnutrition include anorexia nervosa, cachexia of malignancy, parasitic infection, and malabsorption syndromes. The diagnosis of malnutrition is clinical, which requires phenotypic criteria such as low BMI or disease presentations consistent with specific nutrient deficiencies, along with a suspected cause. This patient’s low BMI and history of malabsorptive gastrointestinal illness are consistent with malnutrition. Malnutrition from malabsorption can be prevented by addressing and treating malabsorptive disorders and ensuring adequate nutritional intake.</p><p>Differential: This patient’s history of recent weight loss accompanying malabsorption narrows the differential to malnutrition. Temporal wasting is caused by muscle catabolism because of a lack of sufficient protein to maintain sarcomeric bulk. Other potential contributors to severe malnutrition caused by malabsorption include glossitis and cheilosis from B vitamin deficiencies and ecchymoses from vitamin K deficiency; however, these are not directly responsible for the temporal wasting seen in this patient’s temples.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: Folic acid is incorrect. Folic acid deficiency presents as a macrocytic anemia. On examination, anemia presents with pallor, not temporal wasting.</p><p>Choice B: Iron is incorrect. Iron deficiency presents as a microcytic anemia. Iron deficiency does not cause temporal wasting.</p><p>Choice D: Vitamin B complex is incorrect. Vitamin B complex deficiency may arise from inadequate absorption of thiamine, riboflavin, niacin, pyridoxine, and cobalamin among others. Multiple syndromes are associated with vitamin B complex deficiency, such as beriberi, Wernicke encephalopathy, cheilosis, and anemia, among others. The temporal wasting in this patient’s case is a result of protein malnutrition, not vitamin B complex deficiency.</p><p>Choice E: Vitamin K is incorrect. Vitamin K deficiency causes a hypocoagulable state and could be the cause of this patient's numerous ecchymoses. Vitamin K deficiency does not directly cause temporal wasting.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Folic acid",
+      "is_correct": false
+    },
+    {
+      "text_html": "Iron",
+      "is_correct": false
+    },
+    {
+      "text_html": "Protein",
+      "is_correct": true
+    },
+    {
+      "text_html": "Vitamin B complex",
+      "is_correct": false
+    },
+    {
+      "text_html": "Vitamin K",
+      "is_correct": false
+    }
+  ]
+}
