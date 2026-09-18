@@ -1,0 +1,35 @@
+{
+  "id": 107,
+  "uworld_id": 107,
+  "text_html": "<p>A 20-year-old man comes to the office for a follow-up examination 1 week after he was found to have a serum total cholesterol concentration of 450 mg/dL. He has no history of serious illness and takes no medications. His father and paternal uncle have hypercholesterolemia. The patient does not smoke, drink alcoholic beverages, or use illicit drugs. He follows a healthy diet. He is 180 cm (5 ft 11 in) tall and weighs 72 kg (160 lb); BMI is 22 kg/m². Temperature is 37.1°C (98.8°F), pulse is 72/min, respirations are 12/min, and blood pressure is 122/78 mm Hg. Physical examination shows the findings in the photograph. The remainder of the examination shows no abnormalities. The most likely cause of the findings in this patient is a defect in which of the following genes?</p><img src=\"offline_media/question_107_1.png\"/>",
+  "explanation_html": "<p><b>Educational Objective: This patient presents with a serum total cholesterol concentration of 450 mg/dL, xanthoma (shown in the photograph), and a family history of hypercholesterolemia suggestive of a heritable cause. The most likely cause of familial hypercholesterolemia is a defect in the Apo B/E receptor (<i>LDLR</i>).</b></p><p>Key Concept: Familial hypercholesterolemia is an inherited autosomal dominant genetic disorder that classically presents with premature cardiovascular disease, xanthomas, and corneal arcus.</p><p>Explanation: Familial hypercholesterolemia results from genetic defects most commonly in the <i>LDLR</i> gene that is responsible for clearing LDL particles from the bloodstream. Diagnosis of familial hypercholesterolemia occurs via genetic testing to identify pathogenic variants, most commonly in <i>LDLR</i>. In clinical practice, phenotypic diagnostic criteria, including profoundly abnormal lipid profiles such as those in this patient's case, can aid in the diagnosis. Familial hypercholesterolemia cannot be prevented as it is an inherited genetic condition. Treatment may involve statins (generally first-line), ezetimibe, proprotein convertase subtilisin/kexin type 9 (<i>PCSK9</i>) inhibitors, and bile acid sequestrants.</p><p>Differential: This patient's differential is narrowed based on the severely increased serum total cholesterol and positive family history, making familial hypercholesterolemia the most likely diagnosis.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Apo E (<i>APOE</i>) is incorrect. <i>APOE</i> variants can affect the progression of diseases such as Alzheimer disease. <i>APOE</i> defects are not classically associated with familial hypercholesterolemia.</p><p>Choice C: Lipase C (<i>LIPC</i>) is incorrect. Loss-of-function mutations in <i>LIPC</i> cause hepatic lipase deficiency, which can result in increased triglycerides, increased HDL concentrations, and increased total cholesterol, but this is rare and not a common cause of familial hypercholesterolemia.</p><p>Choice D: Lipoprotein lipase (<i>LPL</i>) is incorrect. <i>LPL</i> mutations can cause familial lipoprotein lipase deficiency, which is characterized by severe hypertriglyceridemia, recurrent pancreatitis, hepatosplenomegaly, and xanthomas. This is rare. It is more likely that this patient has a defect in <i>LDLR</i>.</p><p>Choice E: Proprotein convertase subtilisin/kexin type 9 (<i>PCSK9</i>) is incorrect. <i>PCSK9</i> mutations can cause autosomal dominant familial hypercholesterolemia but represent less than 1% of familial hypercholesterolemia cases. It is more likely that this patient has a defect in <i>LDLR</i>.</p><p>Choice E: Proprotein convertase subtilisin/kexin type 9 (<i>PCSK9</i>) is incorrect. <i>PCSK9</i> mutations can cause autosomal dominant familial hypercholesterolemia but represent less than 1% of familial hypercholesterolemia cases. It is more likely that this patient has a defect in <i>LDLR</i>.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [
+    "question_107_1.png"
+  ],
+  "options": [
+    {
+      "text_html": "Apo B/E receptor (<i>LDLR</i>)",
+      "is_correct": true
+    },
+    {
+      "text_html": "Apo E (<i>APOE</i>)",
+      "is_correct": false
+    },
+    {
+      "text_html": "Lipase C (<i>LIPC</i>)",
+      "is_correct": false
+    },
+    {
+      "text_html": "Lipoprotein lipase (<i>LPL</i>)",
+      "is_correct": false
+    },
+    {
+      "text_html": "Proprotein convertase subtilisin/kexin type 9 (<i>PCSK9</i>)",
+      "is_correct": false
+    }
+  ]
+}
