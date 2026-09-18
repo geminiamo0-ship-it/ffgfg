@@ -1,0 +1,32 @@
+{
+  "id": 50,
+  "uworld_id": 50,
+  "text_html": "<p>A 48-year-old woman undergoes lumpectomy of an infiltrating ductal carcinoma of the left breast. Histologic examination of the tumor specimen shows numerous mononuclear immune cells and associated areas of individual necrotic tumor cells. Which of the following mechanisms best describes this immune-mediated tumor cell damage?</p>",
+  "explanation_html": "<p><b>Educational Objective: Recognition of tumor antigens by CD8+ T lymphocytes via class I MHC is the principal immune mechanism responsible for targeted tumor cell death.</b></p><p>Key Concept: Tumor cell destruction by cytotoxic T lymphocytes occurs when tumor antigens are presented on class I MHC molecules and recognized by CD8+ T lymphocytes, leading to apoptosis of tumor cells.</p><p>Explanation: Endogenous tumor proteins are processed in the cytosol and presented on class I MHC molecules. Cytotoxic CD8+ T lymphocytes recognize these antigens via the T-lymphocyte receptor and induce apoptosis through perforin/granzyme release or FAS ligand interactions. This immune response produces targeted killing of individual tumor cells rather than widespread necrosis. Tumor-infiltrating lymphocytes are associated with improved prognosis in some cancers, reflecting effective immune surveillance.</p><p>Differential: This patient has infiltrating ductal carcinoma with numerous mononuclear immune cells and focal necrosis of individual tumor cells. This pattern is characteristic of cell-mediated immunity, specifically cytotoxic T lymphocyte–mediated tumor cell death.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: FAS ligand expressed by tumor cell comes into contact with macrophages and this initiates apoptosis is incorrect. FAS ligand–mediated apoptosis is initiated by cytotoxic T lymphocytes, not by tumor cells engaging macrophages.</p><p>Choice B: Fc receptor on B lymphocytes binds to altered tumor cell membrane protein is incorrect. Antibody-dependent cellular cytotoxicity involves Fc receptors on NK cells or macrophages, not B lymphocytes.</p><p>Choice C: Tumor cell protein induces macrophages to secrete cytokines that promote phagocytosis is incorrect. Macrophage cytokine secretion may enhance inflammation but does not explain selective tumor cell apoptosis; further, tumor cells that are intact and located within a stromal matrix are targets of phagocytosis after lysis. Phagocytosis generally requires a cell to be free of stromal association, such as a motile bacterium, or a postapoptotic cell fragment.</p><p>Choice D: Tumor cell protein is recognized by CD4+ T lymphocytes after entering class I MHC antigen-processing pathway is incorrect. CD4+ T lymphocytes recognize antigens presented on class II MHC, not class I.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "FAS ligand expressed by tumor cell comes into contact with macrophages and this initiates apoptosis",
+      "is_correct": false
+    },
+    {
+      "text_html": "Fc receptor on B lymphocytes binds to altered tumor cell membrane protein",
+      "is_correct": false
+    },
+    {
+      "text_html": "Tumor cell protein induces macrophages to secrete cytokines that promote phagocytosis",
+      "is_correct": false
+    },
+    {
+      "text_html": "Tumor cell protein is recognized by CD4+ T lymphocytes after entering class I MHC antigen-processing pathway",
+      "is_correct": false
+    },
+    {
+      "text_html": "Tumor cell protein is recognized by CD8+ T lymphocytes after entering class I MHC antigen-processing pathway",
+      "is_correct": true
+    }
+  ]
+}
