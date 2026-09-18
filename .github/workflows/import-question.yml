@@ -1,0 +1,127 @@
+name: Import NBME Question
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'incoming/*.json'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Import pending questions
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json, sqlite3, subprocess
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          db_path = Path('my_course_bank.db')
+          pending = sorted(Path('incoming').glob('*.json'))
+          if not pending:
+              raise SystemExit('No pending question payloads found')
+
+          con = sqlite3.connect(db_path)
+          con.row_factory = sqlite3.Row
+          cur = con.cursor()
+          cur.execute('PRAGMA foreign_keys=ON')
+
+          try:
+              cur.execute('BEGIN IMMEDIATE')
+              for path in pending:
+                  data = json.loads(path.read_text(encoding='utf-8'))
+                  qid = int(data['id'])
+                  uwid = int(data.get('uworld_id', qid))
+                  opts = data['options']
+
+                  max_qid = cur.execute('SELECT COALESCE(MAX(id),0) FROM questions').fetchone()[0]
+                  max_uwid = cur.execute('SELECT COALESCE(MAX(uworld_id),0) FROM questions').fetchone()[0]
+                  if qid != max_qid + 1:
+                      raise ValueError(f'{path}: expected question id {max_qid + 1}, got {qid}')
+                  if uwid != max_uwid + 1:
+                      raise ValueError(f'{path}: expected uworld_id {max_uwid + 1}, got {uwid}')
+                  if cur.execute('SELECT 1 FROM questions WHERE id=? OR uworld_id=?',(qid,uwid)).fetchone():
+                      raise ValueError(f'{path}: duplicate question id/uworld_id')
+                  if len(opts) < 2:
+                      raise ValueError(f'{path}: fewer than 2 options')
+                  if sum(1 for o in opts if bool(o['is_correct'])) != 1:
+                      raise ValueError(f'{path}: exactly one option must be correct')
+
+                  created_at = data.get('created_at') or datetime.now(timezone.utc).isoformat(timespec='milliseconds').replace('+00:00','Z')
+                  cur.execute('''
+                    INSERT INTO questions
+                      (id, uworld_id, text_html, explanation_html, subject, system, topic, source, created_at)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                  ''', (
+                    qid, uwid, data['text_html'], data['explanation_html'],
+                    data.get('subject',''), data.get('system',''), data.get('topic',''),
+                    data.get('source','nbme-pdf'), created_at
+                  ))
+
+                  for idx, opt in enumerate(opts):
+                      cur.execute('''
+                        INSERT INTO options
+                          (question_id, text_html, is_correct, option_order, uworld_chosen_by, choice_api_id)
+                        VALUES (?, ?, ?, ?, ?, ?)
+                      ''', (qid, opt['text_html'], 1 if opt['is_correct'] else 0, idx, opt.get('uworld_chosen_by',0), opt.get('choice_api_id')))
+
+                  path.unlink()
+
+              con.commit()
+          except Exception:
+              con.rollback()
+              raise
+
+          integrity = cur.execute('PRAGMA integrity_check').fetchone()[0]
+          if integrity != 'ok':
+              raise RuntimeError(f'SQLite integrity_check failed: {integrity}')
+
+          qcount = cur.execute('SELECT COUNT(*) FROM questions').fetchone()[0]
+          ocount = cur.execute('SELECT COUNT(*) FROM options').fetchone()[0]
+          max_qid = cur.execute('SELECT MAX(id) FROM questions').fetchone()[0]
+          max_uwid = cur.execute('SELECT MAX(uworld_id) FROM questions').fetchone()[0]
+          max_oid = cur.execute('SELECT MAX(id) FROM options').fetchone()[0]
+          latest = cur.execute('SELECT id, uworld_id, subject, system, topic, source, created_at FROM questions ORDER BY id DESC LIMIT 10').fetchall()
+          commit = subprocess.check_output(['git','rev-parse','HEAD'], text=True).strip()
+
+          lines = [
+              '# NBME 34 Database Status','',
+              f'Generated from import based on commit: `{commit}`','',
+              '## SQLite integrity','```text',integrity,'```','',
+              '## Counts','',f'- Questions: {qcount}',f'- Options: {ocount}','',
+              '## Latest IDs','',f'- Max question id: {max_qid}',f'- Max uworld_id: {max_uwid}',f'- Max option id: {max_oid}','',
+              '## Latest question rows','```text'
+          ]
+          cols = ['id','uworld_id','subject','system','topic','source','created_at']
+          widths = {c:max(len(c), *(len(str(r[c] if r[c] is not None else '')) for r in latest)) for c in cols}
+          lines.append('  '.join(c.ljust(widths[c]) for c in cols))
+          lines.append('  '.join('-'*widths[c] for c in cols))
+          for r in latest:
+              lines.append('  '.join(str(r[c] if r[c] is not None else '').ljust(widths[c]) for c in cols))
+          lines += ['```','']
+          Path('DB_STATUS.md').write_text('\n'.join(lines), encoding='utf-8')
+
+          print(f'Integrity: {integrity}')
+          print(f'Questions: {qcount}')
+          print(f'Options: {ocount}')
+          print(f'Max question id: {max_qid}')
+          print(f'Max uworld_id: {max_uwid}')
+          print(f'Max option id: {max_oid}')
+          con.close()
+          PY
+      - name: Commit database update
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Import NBME question(s)"
+          git push
