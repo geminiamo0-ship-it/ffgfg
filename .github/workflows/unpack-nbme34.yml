@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - '.upload/READY'
+      - 'NBME_34.rar'
 
 permissions:
   contents: write
@@ -16,18 +16,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Rebuild uploaded archive
+      - name: Extract NBME 34
         shell: bash
         run: |
-          cat .upload/part_* > /tmp/NBME_34.rar.b64
-          base64 -d /tmp/NBME_34.rar.b64 > /tmp/NBME_34.rar
-          7z x /tmp/NBME_34.rar -o. -y
+          7z x NBME_34.rar -o. -y
           test -f my_course_bank.db
           test -d offline_media
       - name: Commit extracted database and media
         shell: bash
         run: |
-          rm -rf .upload
+          rm -f NBME_34.rar
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
