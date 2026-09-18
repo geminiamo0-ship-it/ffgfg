@@ -1,0 +1,33 @@
+{
+  "id": 98,
+  "uworld_id": 98,
+  "text_html": "<p>A 16-year-old girl is brought to the office because she has never had a menstrual period. She has no history of major medical illness and takes no medications. Vital signs are within normal limits. Physical examination shows palpable masses in the inguinal canals. Pelvic examination shows normal external genitalia, a blind vagina, and no cervix. Her sexual maturity rating is 2 for breast and 2 for axillary and pubic hair development. Serum studies show a free testosterone concentration of 250 nmol/mL (N=3.5) and luteinizing hormone concentration of 25 mIU/L (N=5–30). Which of the following is the most likely cause of these findings?</p>",
+  "explanation_html": "<p><b>Educational Objective: Primary amenorrhea with a blind-ending vagina, inguinal testes, very high testosterone, and absence of müllerian structures (uterus and cervix) is most consistent with androgen insensitivity syndrome due to androgen receptor mutation.</b></p><p>Evaluation: The patient has primary amenorrhea with normal female external genitalia, a blind-ending vagina, and no cervix, indicating absent müllerian structures. Palpable inguinal masses suggest undescended testes, and markedly increased testosterone with normal-range luteinizing hormone supports a 46,XY individual producing androgens but unable to respond appropriately at target tissues. Minimal breast development and sparse pubic and axillary hair indicate inadequate effective sex steroid action and decreased androgen-dependent hair growth.</p><p>Definition: Androgen insensitivity syndrome is caused by an X-linked loss-of-function mutation in the androgen receptor in a 46,XY individual. Testes produce testosterone and anti-müllerian hormone, leading to regression of müllerian structures and absence of a uterus, cervix, and upper vagina. Because androgen signaling is defective, wolffian duct derivatives fail to develop and external genitalia follow the default female pathway, with a short or blind vagina. Pubic and axillary hair are decreased because hair growth is androgen dependent, and gonadotropins may be normal or increased due to impaired androgen feedback.</p><p>Prevention: There is no prevention, but early recognition allows appropriate counseling and management of gonadal tumor risk.</p><p>Treatment: Management includes gonadectomy after puberty to decrease malignancy risk, with hormone replacement as needed and counseling regarding fertility and sexual health.</p><p>Differential: Müllerian agenesis presents with normal secondary sexual development and normal androgen concentrations, and congenital adrenal hyperplasia produces virilization with internal female reproductive organs present rather than inguinal testes.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Error in paternal meiosis I on X chromosome is incorrect. Meiotic nondisjunction causing aneuploidy produces characteristic karyotypes with gonadal failure or neurodevelopmental findings rather than inguinal testes with androgen resistance.</p><p>Choice C: Extended <i>FMR1</i> CGG repeats is incorrect. Fragile X premutation is associated with primary ovarian insufficiency and neurocognitive features, not absent müllerian structures with markedly increased testosterone.</p><p>Choice D: 21-Hydroxylase deficiency is incorrect. This disorder causes excess adrenal androgen production with virilization and ambiguous genitalia, and internal female reproductive organs are present because anti-müllerian hormone is not produced.</p><p>Choice D: 21-Hydroxylase deficiency is incorrect. This disorder causes excess adrenal androgen production with virilization and ambiguous genitalia, and internal female reproductive organs are present because anti-müllerian hormone is not produced.</p><p>Choice E: Testis-determining factor deletion on Y chromosome is incorrect. Loss of <i>SRY</i> causes gonadal dysgenesis with absent testicular hormone production, leading to müllerian structures being present rather than absent.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Androgen receptor mutation",
+      "is_correct": true
+    },
+    {
+      "text_html": "Error in paternal meiosis I on X chromosome",
+      "is_correct": false
+    },
+    {
+      "text_html": "Extended <i>FMR1</i> CGG repeats",
+      "is_correct": false
+    },
+    {
+      "text_html": "21-Hydroxylase deficiency",
+      "is_correct": false
+    },
+    {
+      "text_html": "Testis-determining factor deletion on Y chromosome",
+      "is_correct": false
+    }
+  ]
+}
