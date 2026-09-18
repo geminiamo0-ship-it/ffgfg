@@ -1,0 +1,31 @@
+name: Inspect HTML Samples
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/inspect-html-samples.yml'
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Print samples
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import sqlite3
+          con = sqlite3.connect('my_course_bank.db')
+          con.row_factory = sqlite3.Row
+          cur = con.cursor()
+          for qid in (39,40):
+              q = cur.execute('SELECT * FROM questions WHERE id=?',(qid,)).fetchone()
+              print(f'=== QUESTION {qid} ===')
+              print('TEXT_HTML_REPR:', repr(q['text_html']))
+              print('EXPLANATION_HTML_REPR:', repr(q['explanation_html']))
+              print('SOURCE_REPR:', repr(q['source']))
+              for o in cur.execute('SELECT id, question_id, text_html, is_correct, option_order, uworld_chosen_by, choice_api_id FROM options WHERE question_id=? ORDER BY option_order,id',(qid,)):
+                  print('OPTION:', dict(o))
+          con.close()
+          PY
