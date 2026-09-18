@@ -1,0 +1,35 @@
+{
+  "id": 122,
+  "uworld_id": 122,
+  "text_html": "<p>The graph shows the relationship between expiratory airflow and lung volume in a 30-year-old man with lung disease compared with a healthy 30-year-old man. A biopsy specimen of the patient's lung is stained for collagen and shows marked fibrosis. Which of the following is the most likely diagnosis?</p><img src=\"offline_media/question_122_1.svg\"/>",
+  "explanation_html": "<p><b>Educational Objective: This patient with lung disease is found to have restrictive lung disease. An example of restrictive lung disease is sarcoidosis.</b></p><p>Evaluation: Sarcoidosis is a systemic inflammatory disease that often affects the pulmonary system. It can progress to restrictive lung disease through granulomatous inflammation and parenchymal fibrosis. The patient’s pulmonary function testing shows decreased lung volumes.</p><p>Definition: Sarcoidosis is a diagnosis of exclusion that requires histopathologic evidence of noncaseating granulomas, clinical and radiographic findings, and exclusion of other causes of granulomatous disease, such as mycobacterial infection. Sarcoidosis and other restrictive lung diseases are characterized by decreased lung expansion, leading to decreased total lung capacity and vital capacity. Restrictive lung disease can also result from intrinsic lung diseases such as pulmonary fibrosis or from extrinsic causes like chest wall deformities, neuromuscular disorders, and obesity.</p><p>Prevention: There are no known preventive strategies for sarcoidosis and for most restrictive lung disease. Comorbidities such as tobacco use should be addressed and cessation counseled.</p><p>Treatment: Treatment for sarcoidosis often begins with corticosteroid use, and if patients require second-line agents, medications such as methotrexate or azathioprine can be used.</p><p>Differential: This patient’s pulmonary function test shows restrictive lung disease, causes of which include interstitial lung disease, hypersensitivity pneumonitis, and sarcoidosis. The other potential diagnoses listed would not show a restrictive lung pattern.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Asthma is incorrect. Asthma can either show a normal or obstructive pattern on pulmonary function testing.</p><p>Choice B: Bronchitis is incorrect. Bronchitis often shows normal pulmonary function testing, and chronic bronchitis can present with obstructive physiology. Bronchitis would not show a restrictive pattern.</p><p>Choice C: Emphysema is incorrect. Emphysema shows obstructive</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [
+    "question_122_1.svg"
+  ],
+  "options": [
+    {
+      "text_html": "Asthma",
+      "is_correct": false
+    },
+    {
+      "text_html": "Bronchitis",
+      "is_correct": false
+    },
+    {
+      "text_html": "Emphysema",
+      "is_correct": false
+    },
+    {
+      "text_html": "Lung cancer",
+      "is_correct": false
+    },
+    {
+      "text_html": "Sarcoidosis",
+      "is_correct": true
+    }
+  ]
+}
