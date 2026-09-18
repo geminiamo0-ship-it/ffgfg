@@ -1,0 +1,33 @@
+{
+  "id": 99,
+  "uworld_id": 99,
+  "text_html": "<p>A 48-year-old woman comes to the physician because of a 3-month history of diarrhea. Her family says she has been very forgetful for the past 3 weeks. She has been treated with isoniazid for the past 6 months for a positive PPD skin test. She has bilateral scaling and desquamation on the backs of her hands and forearms. Which of the following is the most likely cause of her current symptoms?</p>",
+  "explanation_html": "<p><b>Educational Objective: Vitamin deficiency as a side effect of isoniazid use is the cause of this patient’s symptoms, which include diarrhea, dermatitis, and confusion suggestive of pellagra from niacin deficiency. While isoniazid most commonly causes pyridoxine deficiency, it is also known to cause niacin and vitamin D deficiency.</b></p><p>Evaluation: Niacin deficiency, also called pellagra, is associated with a photosensitive rash that presents as scaly, pigmented plaques classically involving the chest and dorsal extremities. Other symptoms of pellagra include glossitis, diarrhea, disorientation, dementia, and death in severe cases.</p><p>Definition: Isoniazid causes niacin deficiency through multiple proposed mechanisms, all thought to decrease the conversion of tryptophan to niacin. For example, isoniazid is associated with depletion of pyridoxal phosphate, which otherwise increases the metabolism tryptophan to niacin. Pyridoxine is a cofactor needed in the conversion of tryptophan to niacin as well, and isoniazid complexes with pyridoxine, preventing its use as a cofactor. Laboratory studies may be completed to confirm the diagnosis of pellagra in uncertain cases.</p><p>Prevention: In patients treated with isoniazid for tuberculosis, nicotinamide and pyridoxine supplementation may prevent associated vitamin deficiencies.</p><p>Treatment: Adequate repletion of niacin via supplementation with nicotinamide is recommended in patients with niacin deficiency. Pyridoxine supplementation is also appropriate in patients on isoniazid. Eliminating driving factors causing deficiency is also recommended. Side effects of supplementation include cutaneous flushing, nausea, and increased serum aminotransferases.</p><p>Differential: In this patient with a history of latent tuberculosis being treated with isoniazid, the most likely cause of symptoms is niacin deficiency. Signs of niacin deficiency include photosensitive dermatitis, diarrhea, and neurologic abnormalities that may lead to dementia or death in severe cases.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Disseminated tuberculosis is incorrect. Disseminated tuberculosis, also called miliary tuberculosis, is caused by hematogenous dissemination of mycobacterium tuberculosis. Disseminated tuberculosis is associated with multiple symptoms depending on the organ system affected, including but not limited to fever, sepsis, acute respiratory distress syndrome, adrenal insufficiency, and meningitis. This patient's symptoms are likely the result of isoniazid-induced niacin deficiency, as opposed to disseminated tuberculosis.</p><p>Choice B: Drug hypersensitivity is incorrect. Drug hypersensitivity reactions are commonly caused by antibiotics and antiepileptic medications. These reactions usually present with cutaneous findings, and severe cases are associated with hepatic or renal injury.</p><p>Choice C: Immunosuppression is incorrect. Isoniazid is used for treatment of latent tuberculosis. Isoniazid may cause niacin deficiency in at-risk patients, but it is not an immunosuppressive agent.</p><p>Choice D: Opportunistic infection is incorrect. Isoniazid use does not cause immunosuppression or place patients at risk for an opportunistic infection. Opportunistic infections may occur in patients with genetic immunodeficiency, cancer, HIV/AIDS, or iatrogenic immunosuppression required for organ or bone marrow transplant.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Disseminated tuberculosis",
+      "is_correct": false
+    },
+    {
+      "text_html": "Drug hypersensitivity",
+      "is_correct": false
+    },
+    {
+      "text_html": "Immunosuppression",
+      "is_correct": false
+    },
+    {
+      "text_html": "Opportunistic infection",
+      "is_correct": false
+    },
+    {
+      "text_html": "Vitamin deficiency",
+      "is_correct": true
+    }
+  ]
+}
