@@ -1,0 +1,33 @@
+{
+  "id": 115,
+  "uworld_id": 115,
+  "text_html": "<p>A 38-year-old woman comes to the physician because of a 1-year history of symmetric bilateral pain, redness, and swelling of her fingers. Physical examination shows erythema, swelling, and decreased range of motion of the proximal interphalangeal and metacarpophalangeal joints. X-rays of the hands show periarticular erosions. Which of the following is the most likely cause of the damage to her joints?</p>",
+  "explanation_html": "<p><b>Educational Objective: A presentation of symmetric proximal interphalangeal and metacarpophalangeal joint pain, erythema, and swelling with periarticular erosions in a woman of advanced reproductive age is most consistent with rheumatoid arthritis. Tumor necrosis factor (TNF) is increased in inflammatory conditions such as rheumatoid arthritis, making it the most likely cause of this patient’s joint damage.</b></p><p>Key Concept: TNF is an inflammatory cytokine that is increased in inflammatory conditions such as rheumatoid arthritis.</p><p>Explanation: Cytokines are modulating proteins of the immune system. TNF is a notably proinflammatory cytokine and is a known mediator of inflammatory conditions. While TNF and other proinflammatory cytokines are appropriately present in diseases that require a robust immune response, such as infection or malignancy, they are often inappropriately present in autoimmune diseases such as rheumatoid arthritis. Several biologic medications specifically target TNF to treat autoimmune conditions by decreasing inflammation.</p><p>Differential: A woman presenting with symmetric proximal interphalangeal and metacarpophalangeal joint pain, erythema, and swelling likely has rheumatoid arthritis, which is mediated by TNF. Antiphospholipid antibody, histamine, IgE, and osteoclast-activating factor are not significantly proinflammatory and would not cause joint damage in a patient with rheumatoid arthritis.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Antiphospholipid antibody is not the most likely cause of the joint damage. The presence of antiphospholipid antibodies can be seen in systemic lupus erythematosus. While systemic lupus erythematosus can cause hand pain, it would not be erosive or localized to the proximal interphalangeal and metacarpophalangeal joints.</p><p>Choice B and Choice C: Histamine and IgE are incorrect. Histamine and IgE are frequently increased in allergic conditions and asthma, which this patient does not have.</p><p>Choice D: Osteoclast-activating factor is incorrect. Osteoclast activating factor can be increased in multiple myeloma, which most commonly presents in older adults. It would not be expected to present with isolated erythema and swelling of the proximal interphalangeal and metacarpophalangeal joints in a 38-year-old female patient.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Antiphospholipid antibody",
+      "is_correct": false
+    },
+    {
+      "text_html": "Histamine",
+      "is_correct": false
+    },
+    {
+      "text_html": "IgE",
+      "is_correct": false
+    },
+    {
+      "text_html": "Osteoclast-activating factor",
+      "is_correct": false
+    },
+    {
+      "text_html": "Tumor necrosis factor",
+      "is_correct": true
+    }
+  ]
+}
