@@ -1,0 +1,33 @@
+{
+  "id": 100,
+  "uworld_id": 100,
+  "text_html": "<p>An epidemiologic study is conducted concerning the autosomal recessive form of Charcot-Marie-Tooth disease in North America. In parts of Canada, the incidence of this disease is 1/900. Which of the following best represents the frequency of carriers in this population?</p>",
+  "explanation_html": "<p><b>Educational Objective: In autosomal recessive disease, incidence equals q² and carrier frequency is approximately 2q for rare alleles.</b></p><p>Key Concept: An incidence of 1/900 corresponds to q² = 1/900, so q = 1/30. For rare conditions, p equals approximately 1, making the carrier frequency 2q = 1/15.</p><p>Explanation: Using the Hardy-Weinberg law, the frequency of an autosomal recessive disease is represented by q², while carriers are represented by 2pq. When the disease allele is rare, p is approximately 1, allowing carrier frequency to be estimated simply as 2q after taking the square root of the disease incidence.</p><p>Differential: Because the disease incidence equals q², an incidence of 1/900 gives q = 1/30, and for rare autosomal recessive traits the carrier frequency is approximately 2q = 1/15.</p><p>Incorrect Answers: A, B, C, and E.</p><p>Choice A: 1/3 is incorrect. This implies q = 1/6 and a disease incidence of 1/36.</p><p>Choice B: 1/9 is incorrect. This implies q = 1/18 and a disease incidence of 1/324.</p><p>Choice C: 1/10 is incorrect. This implies q = 1/20 and a disease incidence of 1/400.</p><p>Choice A: 1/3 is incorrect. This implies q = 1/6 and a disease incidence of 1/36.</p><p>Choice B: 1/9 is incorrect. This implies q = 1/18 and a disease incidence of 1/324.</p><p>Choice C: 1/10 is incorrect. This implies q = 1/20 and a disease incidence of 1/400.</p><p>Choice E: 1/30 is incorrect. This represents the allele frequency q, not the carrier frequency, which would be approximately 2q = 1/15.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "1/3",
+      "is_correct": false
+    },
+    {
+      "text_html": "1/9",
+      "is_correct": false
+    },
+    {
+      "text_html": "1/10",
+      "is_correct": false
+    },
+    {
+      "text_html": "1/15",
+      "is_correct": true
+    },
+    {
+      "text_html": "1/30",
+      "is_correct": false
+    }
+  ]
+}
