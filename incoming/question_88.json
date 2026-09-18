@@ -1,0 +1,29 @@
+{
+  "id": 88,
+  "uworld_id": 88,
+  "text_html": "<p>A 3-year-old boy is brought to the office by his mother for a well-child examination. The patient clings to his mother and appears distressed as the physician approaches. His mother says the patient knows his body parts and can point to his nose, ears, and feet. He can follow a two-step command and can speak two-word sentences; he has a vocabulary of approximately 50 words. He can throw a ball overhand and stand on one foot. Medical history is unremarkable and he receives no medications. The patient is at the 50th percentile for height and weight. Vital signs are within normal limits. Which of the following aspects of the examination is most likely to require further evaluation?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient demonstrates a delay in verbal development, given he is only able to speak two-word sentences with a vocabulary of about 50 words, which are typical milestones for a 2-year-old child.</b></p><p>Key Concept: Developmental milestones in early childhood are divided into gross motor, fine motor, language, and social domains. Delays in any domain warrant further evaluation. This child shows evidence of a delay in verbal development.</p><p>Explanation: By age 3 years, children are expected to have a vocabulary of at least 200 to 300 words and be able to speak in three-word sentences. While this patient can follow two-step commands and use two-word sentences, his vocabulary of approximately 50 words is below normal for his age. In contrast, his gross motor skills (throwing a ball overhand, standing on one foot), social behavior (clinginess), and fine motor abilities are appropriate for a 3-year-old child.</p><p>Differential: Isolated expressive language delay should be distinguished from global developmental delay, hearing impairment, and autism spectrum disorder. This patient’s intact social engagement and ability to follow commands make isolated expressive language delay more likely. Furthermore, he shows no signs of any delay regarding fine or gross motor skills or social development.</p><p>Choice A and Choice B: Fine motor skills and gross motor skills are incorrect. The patient’s ability to point to small body parts suggests normal fine motor skill development. Standing on one foot and throwing a ball overhand are appropriate milestones for gross motor skills at this age.</p><p>Choice C: Social development is incorrect. Stranger anxiety and clinging to a caregiver are developmentally normal behaviors in young children.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Fine motor skills",
+      "is_correct": false
+    },
+    {
+      "text_html": "Gross motor skills",
+      "is_correct": false
+    },
+    {
+      "text_html": "Social development",
+      "is_correct": false
+    },
+    {
+      "text_html": "Verbal development",
+      "is_correct": true
+    }
+  ]
+}
