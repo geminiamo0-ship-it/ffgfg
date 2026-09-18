@@ -1,0 +1,29 @@
+{
+  "id": 108,
+  "uworld_id": 108,
+  "text_html": "<p>A 43-year-old woman with pyelonephritis has fever, somnolence, and anorexia. Laboratory studies show leukocytosis and an increased erythrocyte sedimentation rate. Which of the following substances is most directly responsible for her clinical signs and symptoms?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient presents with pyelonephritis, fever, leukocytosis, and increased ESR, suggestive of sepsis secondary to a bacterial infection. The substance most directly responsible for her clinical signs and symptoms is interleukin-1 (IL-1), which mediates fever and the acute inflammatory response.</b></p><p>Key Concept: IL-1 triggers the systemic inflammation seen in sepsis secondary to an infection such as pyelonephritis.</p><p>Explanation: IL-1 is a pro-inflammatory cytokine that triggers vasodilation, attracts neutrophils, induces fever, and promotes acute phase protein production leading to increased ESR and C-reactive protein. In bacterial infection such as pyelonephritis, IL-1 along with other cytokines results in tachycardia and hypotension, increased temperature, leukocytosis, and increased inflammatory markers.</p><p>Differential: This patient’s presentation of fever, increased inflammatory markers, somnolence, and anorexia is driven by the presence of acute phase reactant cytokines, notably IL-1.</p><p>Incorrect Answers: A, C, and D.</p><p>Choice A: Bacterial exotoxin is incorrect. Bacterial exotoxin triggers inflammatory responses such as production of IL-1; however, IL-1 is the substance responsible for this patient’s symptoms.</p><p>Choice C: Prostaglandin E<sub>2</sub> is incorrect. Prostaglandin E<sub>2</sub> modulates cytokine production and can inhibit the production of IL-1.</p><p>Choice D: Transforming growth factor-β is incorrect. Transforming growth factor-β is an anti-inflammatory cytokine and does not drive the classic response seen in sepsis.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Bacterial exotoxin",
+      "is_correct": false
+    },
+    {
+      "text_html": "Interleukin-1 (IL-1)",
+      "is_correct": true
+    },
+    {
+      "text_html": "Prostaglandin E<sub>2</sub>",
+      "is_correct": false
+    },
+    {
+      "text_html": "Transforming growth factor-β",
+      "is_correct": false
+    }
+  ]
+}
