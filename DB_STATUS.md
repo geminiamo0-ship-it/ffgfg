@@ -1,6 +1,6 @@
 # NBME 34 Database Status
 
-Generated from import based on commit: `4b0765c5117540d0771d396bcdf5fd35ae5dbf9d`
+Generated from import based on commit: `7013a024944825ea6d94fd6b80bf5920136a7c88`
 
 ## SQLite integrity
 ```text
@@ -9,19 +9,20 @@ ok
 
 ## Counts
 
-- Questions: 79
-- Options: 416
+- Questions: 80
+- Options: 421
 
 ## Latest IDs
 
-- Max question id: 79
-- Max uworld_id: 79
-- Max option id: 421
+- Max question id: 80
+- Max uworld_id: 80
+- Max option id: 426
 
 ## Latest question rows
 ```text
 id  uworld_id  subject  system  topic  source    created_at              
 --  ---------  -------  ------  -----  --------  ------------------------
+80  80                                 nbme-pdf  2026-09-18T05:46:27.930Z
 79  79                                 nbme-pdf  2026-09-18T05:45:23.695Z
 78  78                                 nbme-pdf  2026-09-18T05:41:51.097Z
 77  77                                 nbme-pdf  2026-09-18T05:33:46.168Z
@@ -31,5 +32,4 @@ id  uworld_id  subject  system  topic  source    created_at
 73  73                                 nbme-pdf  2026-09-18T05:30:01.728Z
 72  72                                 nbme-pdf  2026-09-18T05:29:13.678Z
 71  71                                 nbme-pdf  2026-09-18T05:28:37.610Z
-70  70                                 nbme-pdf  2026-09-18T05:27:45.526Z
 ```
