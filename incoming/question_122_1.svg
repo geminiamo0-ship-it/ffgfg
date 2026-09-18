@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="621" viewBox="0 0 860 621">
+<rect width="860" height="621" fill="white"/>
+<g fill="none" stroke="black" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M115 12 V518 H852"/>
+  <path d="M115 518 H315 C345 500 350 470 352 420 C355 335 350 190 370 160 C395 130 430 135 455 145 C475 152 480 175 505 180 C555 190 580 245 620 315 C660 385 700 450 755 518"/>
+  <path d="M555 518 C560 430 575 365 605 330 C630 300 665 300 695 320 C725 340 735 380 750 400 C790 450 815 500 820 518"/>
+</g>
+<g stroke="black" stroke-width="3">
+  <path d="M115 518 v20 M215 518 v20 M315 518 v20 M415 518 v20 M515 518 v20 M615 518 v20 M715 518 v20 M815 518 v20"/>
+  <path d="M95 518 h20 M95 433 h20 M95 348 h20 M95 263 h20 M95 178 h20 M95 93 h20 M95 8 h20"/>
+</g>
+<g font-family="Arial, sans-serif" fill="black">
+  <text x="150" y="570" font-size="28">7</text><text x="250" y="570" font-size="28">6</text><text x="350" y="570" font-size="28">5</text>
+  <text x="450" y="570" font-size="28">4</text><text x="550" y="570" font-size="28">3</text><text x="650" y="570" font-size="28">2</text>
+  <text x="750" y="570" font-size="28">1</text><text x="840" y="570" font-size="28">0</text>
+  <text x="65" y="528" font-size="28">0</text><text x="45" y="443" font-size="28">100</text><text x="45" y="358" font-size="28">200</text>
+  <text x="45" y="273" font-size="28">300</text><text x="45" y="188" font-size="28">400</text><text x="45" y="103" font-size="28">500</text><text x="45" y="20" font-size="28">600</text>
+  <text x="345" y="615" font-size="32">Lung volume (L)</text>
+  <text transform="translate(28,445) rotate(-90)" font-size="32">Expiratory air flow (L/min)</text>
+  <text x="550" y="160" font-size="28" font-style="italic">Healthy control</text>
+  <text x="750" y="335" font-size="28" font-style="italic">Patient</text>
+</g>
+</svg>
