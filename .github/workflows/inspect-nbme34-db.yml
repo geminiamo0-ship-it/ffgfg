@@ -1,0 +1,76 @@
+name: Inspect NBME 34 DB
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'my_course_bank.db'
+      - '.github/workflows/inspect-nbme34-db.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Inspect SQLite database
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq sqlite3
+          {
+            echo '# NBME 34 Database Status'
+            echo
+            echo "Generated from commit: $(git rev-parse HEAD)"
+            echo
+            echo '## SQLite integrity'
+            echo '```text'
+            sqlite3 my_course_bank.db "PRAGMA integrity_check;"
+            echo '```'
+            echo
+            echo '## Tables'
+            echo '```text'
+            sqlite3 my_course_bank.db ".tables"
+            echo '```'
+            echo
+            echo '## Counts'
+            echo
+            echo "- Questions: $(sqlite3 my_course_bank.db \"SELECT COUNT(*) FROM questions;\")"
+            echo "- Options: $(sqlite3 my_course_bank.db \"SELECT COUNT(*) FROM options;\")"
+            echo
+            echo '## Latest IDs'
+            echo
+            echo "- Max question id: $(sqlite3 my_course_bank.db \"SELECT COALESCE(MAX(id),'') FROM questions;\")"
+            echo "- Max uworld_id: $(sqlite3 my_course_bank.db \"SELECT COALESCE(MAX(uworld_id),'') FROM questions;\")"
+            echo "- Max option id: $(sqlite3 my_course_bank.db \"SELECT COALESCE(MAX(id),'') FROM options;\")"
+            echo
+            echo '## Latest question rows'
+            echo '```text'
+            sqlite3 -header -column my_course_bank.db "SELECT id, uworld_id, subject, system, topic, source, created_at FROM questions ORDER BY id DESC LIMIT 10;"
+            echo '```'
+            echo
+            echo '## Question columns'
+            echo '```text'
+            sqlite3 -header -column my_course_bank.db "PRAGMA table_info(questions);"
+            echo '```'
+            echo
+            echo '## Option columns'
+            echo '```text'
+            sqlite3 -header -column my_course_bank.db "PRAGMA table_info(options);"
+            echo '```'
+          } > DB_STATUS.md
+      - name: Commit status report
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add DB_STATUS.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Record NBME 34 database status"
+          git push
