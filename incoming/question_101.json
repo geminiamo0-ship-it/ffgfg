@@ -1,0 +1,33 @@
+{
+  "id": 101,
+  "uworld_id": 101,
+  "text_html": "<p>A 33-year-old woman who is seropositive for HIV comes to the physician because of a 5-kg (11-lb) weight gain during the past 6 months. She has been receiving highly active antiretroviral therapy (HAART) for the past year. Physical examination shows increased-sized abdomen and breasts, peripheral and buttock fat wasting, and cervicodorsal fat pad enlargement. Her serum triglyceride concentration is 1195 mg/dL, and plasma HIV viral load is less than 50 copies/mL. One year later, she develops exercise-induced angina. Which of the following is the most likely cause of these findings?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient with a history of HIV infection who is receiving highly active antiretroviral therapy (HAART) presents with an increased serum triglyceride concentration and central adiposity. Protease inhibitors such as those included in HAART have a known adverse effect of lipodystrophy. Lipid accumulation while taking HAART is consistent with protease-inhibitor-induced lipodystrophy.</b></p><p>Key Concept: Protease-inhibitor-induced lipodystrophy classically presents with loss of subcutaneous fat from the face, arms, legs, and buttocks with fat accumulation in the central region of the body.</p><p>Explanation: Protease-inhibitor-induced lipodystrophy results from several mechanisms causing decreased adipocyte differentiation, increased apoptosis of peripheral adipocytes, and increased central and visceral adipose storage. It can lead to metabolic sequelae such as hypertriglyceridemia, insulin resistance, and low HDL-cholesterol. The diagnosis is made with recognition of the characteristic pattern of fat redistribution along with the patient's clinical history and medication use. Lipodystrophy can be prevented by selecting antiretroviral regimens with decreased metabolic toxicity, such as newer generation protease inhibitors. Treatment for lipodystrophy includes switching from the offending antiretroviral agents to regimens with more neutral metabolic profiles.</p><p>Differential: This patient’s differential is narrow given the history of HIV infection and weight gain on HAART, which is most consistent with protease-inhibitor-induced lipodystrophy.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Dietary intake high in total fat is incorrect. Dietary intake high in total fat would cause a well-distributed increase in adiposity, whereas this patient has a central increase.</p><p>Choice B: Loss of β cells in the islets of Langerhans is incorrect. Loss of β cells in the islets of Langerhans describes the process of diabetes mellitus development. Diabetes mellitus is associated with obesity; however, in the case of Langerhans cell destruction, the lack of insulin signaling could also cause weight loss.</p><p>Choice C: <i>Mycobacterium avium</i> complex infection is incorrect. <i>M avium</i> complex infection can present with chronic infectious disease symptoms such as low-grade fever, cough, shortness of breath, and weight loss. <i>M avium</i> complex infection would not present with abnormal fat distribution.</p><p>Choice D: Presence of bilateral adrenal hyperplasia is incorrect. Bilateral adrenal hyperplasia can cause hirsutism, weight gain, development of striae, and hypercortisolism. This patient’s presentation is more consistent with an adverse effect from antiretroviral therapy.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Dietary intake high in total fat",
+      "is_correct": false
+    },
+    {
+      "text_html": "Loss of β cells in the islets of Langerhans",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Mycobacterium avium</i> complex infection",
+      "is_correct": false
+    },
+    {
+      "text_html": "Presence of bilateral adrenal hyperplasia",
+      "is_correct": false
+    },
+    {
+      "text_html": "Protease-inhibitor-induced lipodystrophy",
+      "is_correct": true
+    }
+  ]
+}
