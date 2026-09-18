@@ -1,0 +1,33 @@
+{
+  "id": 114,
+  "uworld_id": 114,
+  "text_html": "<p>A 61-year-old man with multiple myeloma develops nephrotic syndrome. Examination of tissue obtained on renal biopsy shows deposits of glassy, eosinophilic hyaline material in glomeruli and small arteries. When stained with Congo red, the material is birefringent when viewed with polarized light. Which of the following is the most likely origin of this material?</p>",
+  "explanation_html": "<p><b>Educational Objective: Patients with multiple myeloma who develop nephrotic syndrome and Congo red stain–positive, birefringent deposits on renal biopsy have amyloid light-chain (AL) amyloidosis derived from immunoglobulin light chains, such as κ light chains.</b></p><p>Evaluation: This patient with known multiple myeloma develops nephrotic syndrome, indicating glomerular injury. Renal biopsy shows amorphous, eosinophilic deposits in the glomeruli and small arteries that show Congo red stain positivity with birefringence under polarized light, which is diagnostic of amyloidosis. In the context of a plasma cell disorder, this pattern points specifically to light chain–related amyloidosis.</p><p>Definition: Amyloidosis is caused by extracellular deposition of misfolded proteins arranged in β pleated sheets. In AL amyloidosis, monoclonal plasma cells overproduce immunoglobulin light chains, most commonly λ (with κ less commonly), which misfold and deposit in tissues. The kidneys are frequently involved, leading to heavy proteinuria and nephrotic syndrome as a result of glomerular deposition. This form of amyloidosis is typically associated with multiple myeloma and other plasma cell dyscrasias.</p><p>Prevention: Prevention depends on early diagnosis and treatment of the underlying plasma cell disorder to limit light-chain production.</p><p>Treatment: Treatment focuses on controlling multiple myeloma with chemotherapy or stem cell transplant to decrease further amyloid deposition and managing nephrotic syndrome complications.</p><p>Differential: Amyloid A (AA) amyloidosis, derived from serum amyloid A (SAA), occurs in chronic inflammatory conditions and is not associated with plasma cell disorders. Other amyloid types are linked to endocrine tumors, metabolic disease, or age-related protein misfolding rather than monoclonal immunoglobulin production.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: Fragment of calcitonin is incorrect. Calcitonin-derived amyloid is seen in medullary thyroid carcinoma, not plasma cell dyscrasias.</p><p>Choice B: Islet amyloid polypeptide is incorrect. This amyloid is deposited in pancreatic islets in type 2 diabetes mellitus and does not cause renal involvement by AL amyloidosis.</p><p>Choice D: Serum prealbumin is incorrect. Transthyretin amyloidosis (ATTR), formerly referred to as prealbumin amyloidosis, includes hereditary and age-related (wild-type) forms and primarily affects the heart rather than causing nephrotic syndrome as seen in AL amyloidosis associated with multiple myeloma.</p><p>Choice E: Serum protein SAA is incorrect. AA amyloidosis occurs in chronic inflammatory states and is not related to monoclonal light-chain production.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Fragment of calcitonin",
+      "is_correct": false
+    },
+    {
+      "text_html": "Islet amyloid polypeptide",
+      "is_correct": false
+    },
+    {
+      "text_html": "κ Light chains",
+      "is_correct": true
+    },
+    {
+      "text_html": "Serum prealbumin",
+      "is_correct": false
+    },
+    {
+      "text_html": "Serum protein SAA",
+      "is_correct": false
+    }
+  ]
+}
