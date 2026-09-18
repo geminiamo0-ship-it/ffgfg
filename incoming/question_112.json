@@ -1,0 +1,33 @@
+{
+  "id": 112,
+  "uworld_id": 112,
+  "text_html": "<p>A 5-day-old female newborn has vomiting, diarrhea, and difficulty feeding. Physical examination shows jaundice and marked hepatomegaly. Her urine is positive for reducing substances but is negative for glucose. If the underlying metabolic disorder is untreated, this child is likely to develop cataracts by the age of 1 year. Which of the following is the most likely cause of the cataracts?</p>",
+  "explanation_html": "<p><b>Educational Objective: Classic galactosemia should be suspected in this newborn with vomiting, diarrhea, jaundice, hepatomegaly, and urine positive for reducing substances but negative for glucose. Untreated galactosemia leads to cataract formation due to accumulation of galactitol (a sugar alcohol) in the lens.</b></p><p>Evaluation: Galactosemia typically presents within the first few days of life after initiation of milk feeding with vomiting, poor feeding, jaundice, and hepatomegaly. Evaluation includes detection of reducing substances in the urine with a negative glucose test and confirmation by measuring galactose-1-phosphate uridyltransferase activity.</p><p>Definition: Classic galactosemia is an autosomal recessive disorder caused by deficiency of galactose-1-phosphate uridyltransferase, leading to impaired metabolism of galactose. Accumulation of galactose and its metabolites, for example galactitol, occurs in multiple tissues including the liver, brain, and lens. Galactitol cannot be further metabolized and exerts osmotic pressure within tissues of accumulation. This results in cataract formation among other types of organ dysfunction (eg, liver dysfunction). If untreated, patients are at risk for long-term neurodevelopmental complications.</p><p>Prevention: Early newborn screening and prompt elimination of galactose and lactose from the diet prevent the toxic accumulation of galactose metabolites. Lifelong dietary restriction is necessary to avoid complications. As galactosemia is a genetic disease, there is no specific prevention beyond genetic counseling of parents.</p><p>Treatment: Elimination of galactose and lactose from the diet is the mainstay of therapy.</p><p>Differential: In this newborn with jaundice, hepatomegaly, and reducing substances in the urine but no glucose, hereditary galactosemia is the diagnosis. Cataracts in infancy point specifically to galactitol accumulation rather than ischemic or degenerative lens processes.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Decreased blood flow to the lens is incorrect. Ischemia is not the mechanism of cataract formation in a newborn; ischemia may contribute to cataracts in older persons.</p><p>Choice C: Deficient activity of a protease is incorrect. Deficient proteases may allow accumulation of improperly digested or recycled proteins, such as in lysosomal storage disorders. However, galactosemia results in accumulation of a sugar alcohol, not of proteins.</p><p>Choice D: Increased cross-linking of lens proteins is incorrect. Increased cross-linking of lens proteins is a mechanism of senile cataract disease, not cataracts in a newborn. In this case, accumulation of a sugar alcohol is the key mechanism.</p><p>Treatment: Elimination of galactose and lactose from the diet is the mainstay of therapy.</p><p>Differential: In this newborn with jaundice, hepatomegaly, and reducing substances in the urine but no glucose, hereditary galactosemia is the diagnosis. Cataracts in infancy point specifically to galactitol accumulation rather than ischemic or degenerative lens processes.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Decreased blood flow to the lens is incorrect. Ischemia is not the mechanism of cataract formation in a newborn; ischemia may contribute to cataracts in older persons.</p><p>Choice C: Deficient activity of a protease is incorrect. Deficient proteases may allow accumulation of improperly digested or recycled proteins, such as in lysosomal storage disorders. However, galactosemia results in accumulation of a sugar alcohol, not of proteins.</p><p>Choice D: Increased cross-linking of lens proteins is incorrect. Increased cross-linking of lens proteins is a mechanism of senile cataract disease, not cataracts in a newborn. In this case, accumulation of a sugar alcohol is the key mechanism.</p><p>Choice E: Infiltration by an amino acid is incorrect. Infiltration by an amino acid may describe the pathophysiology of phenylketonuria; however, in phenylketonuria, impaired amino acid metabolism leads to neurologic dysfunction. Cataracts are not a typical feature.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Accumulation of a sugar alcohol",
+      "is_correct": true
+    },
+    {
+      "text_html": "Decreased blood flow to the lens",
+      "is_correct": false
+    },
+    {
+      "text_html": "Deficient activity of a protease",
+      "is_correct": false
+    },
+    {
+      "text_html": "Increased cross-linking of lens proteins",
+      "is_correct": false
+    },
+    {
+      "text_html": "Infiltration by an amino acid",
+      "is_correct": false
+    }
+  ]
+}
