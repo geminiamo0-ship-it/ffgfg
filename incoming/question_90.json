@@ -1,0 +1,33 @@
+{
+  "id": 90,
+  "uworld_id": 90,
+  "text_html": "<p>A 28-year-old woman comes to the physician because of a 2-week history of low-grade fever, diarrhea, abdominal pain, and fatigue. She also has had an unintentional 2.3-kg (5-lb) weight loss during the past 2 months. Abdominal examination shows right lower quadrant tenderness. Rectal examination shows a 1-cm perirectal abscess and light brown stool. Test of the stool for occult blood is positive. Laboratory studies show an increased erythrocyte sedimentation rate. A colonoscopy is done and a cecal biopsy specimen is obtained. Analysis of the specimen is most likely to show which of the following?</p>",
+  "explanation_html": "<p><b>Educational Objective: Examination of a cecal biopsy specimen from this patient presenting with chronic abdominal cramping, bloody diarrhea, and weight loss is most likely to show granulomas, consistent with a diagnosis of Crohn disease.</b></p><p>Evaluation: Crohn disease presents with acute to subacute, relapsing/remitting abdominal pain with bloody diarrhea. Most patients experience chronic abdominal cramping, low-grade fever, bloody diarrhea, and weight loss. Diagnosis occurs through imaging and biopsy. Laboratory studies often show increased ESR and C-reactive protein. On fluoroscopic small bowel follow-through, narrowing of the intestinal lumen at the terminal ileum is commonly seen, along with other sites of strictures or fistulous formation. Biopsy will show transmural inflammation and noncaseating granulomas.</p><p>Definition: Crohn disease is a subclass of inflammatory bowel disease characterized by transmural inflammation that can involve any portion of the gastrointestinal tract, often discontinuously. Crohn disease most frequently involves the terminal ileum and typically spares the rectum. Examination often discloses generalized abdominal tenderness, sometimes worse in the right lower quadrant, and, depending on the severity and extent, may show complications such as enterocutaneous fistulas and extraintestinal manifestations such as uveitis. Severe Crohn disease can result in intestinal obstruction from stricture or inflammation, bowel perforation, intra-abdominal abscesses, and the formation of fistulas.</p><p>Prevention: Prevention largely involves early detection and management to prevent the sequelae of Crohn disease, including malnutrition, fistulas, and gastrointestinal malignancies.</p><p>Treatment: Treatment is through anti-inflammatory medications, immunomodulators, and glucocorticoids, with complicated, severe cases sometimes requiring surgery, including small bowel resection or colectomy.</p><p>Differential: Low-grade fever, bloody diarrhea, abdominal pain, weight loss, and fatigue are consistent with inflammatory bowel disease. While definitive differentiation between Crohn and ulcerative colitis requires biopsy, this patient's light brown stool (steatorrhea) suggests involvement of the small intestine, indicating Crohn disease. Granulomas are pathognomonic of Crohn disease.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: Fibrosis is incorrect. Fibrosis is a common sequela of chronic inflammation in Crohn disease and can lead to bowel obstructions and strictures. This patient’s symptoms have a recent onset, and so she is more likely to have granulomas and less likely to have already developed fibrosis.</p><p>Choice B: Flattened villi is incorrect. Also termed villous atrophy, it is commonly found in association with celiac disease, or gluten-sensitive enteropathy. Celiac disease presents with chronic steatorrhea and malabsorption. It does not cause hematochezia or perirectal abscesses.</p><p>Choice D: Villous adenoma is incorrect. Adenomatous polyps may be of tubular or villous architecture on histology, with villous architecture usually having greater malignant potential. While Crohn disease increases the risk for colorectal cancer due to chronic inflammation, neoplasms are a sequela, not an inherent characteristic, of the disease.</p><p>Choice E: Viral inclusions is incorrect. Cytomegalovirus is an opportunistic pathogen that commonly causes disease in immunocompromised patients in the setting of severe ulcerative colitis, solid-organ or allogeneic bone marrow transplantation, or HIV/AIDS. Disease manifestations include colitis, retinitis, esophagitis, encephalitis, and pneumonia. Intracellular inclusion bodies are classically observed on histologic examination.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Fibrosis",
+      "is_correct": false
+    },
+    {
+      "text_html": "Flattened villi",
+      "is_correct": false
+    },
+    {
+      "text_html": "Granulomas",
+      "is_correct": true
+    },
+    {
+      "text_html": "Villous adenoma",
+      "is_correct": false
+    },
+    {
+      "text_html": "Viral inclusions",
+      "is_correct": false
+    }
+  ]
+}
