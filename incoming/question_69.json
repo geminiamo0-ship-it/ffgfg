@@ -1,0 +1,41 @@
+{
+  "id": 69,
+  "uworld_id": 69,
+  "text_html": "<p>A 42-year-old woman comes to the office for a health maintenance examination. She feels well. She underwent rhinoplasty 1 year ago; she also has undergone blepharoplasty, breast augmentation, and multiple collagen injections. She has no history of serious illness and takes no medications. She tells the physician that she recently made an appointment with her plastic surgeon because she wants her nasal bridge further straightened with another rhinoplasty. She says that the current appearance of her nose causes her distress and that she limits her social interactions because she knows people will judge her appearance. She is 160 cm (5 ft 3 in) tall and weighs 57 kg (125 lb); BMI is 22 kg/m². Vital signs are within normal limits. Cardiopulmonary and abdominal examinations disclose no abnormalities. Specific additional history about which of the following is most likely to lead to the diagnosis in this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: Specific additional history about the amount of time spent thinking about her appearance is most likely to lead to the diagnosis of body dysmorphic disorder (BDD) in this patient. BDD is characterized by a pervasive preoccupation with a perceived physical imperfection.</b></p><p>Evaluation: BDD is characterized by a pervasive focus on minor or nonexistent physical flaws in one's physical appearance.</p><p>Definition: The perceived imperfections appear slight or nonexistent to outside observers. By definition, individuals with BDD perform repetitive behaviors (eg, mirror checking) or mental acts (eg, comparing appearance with others).</p><p>Prevention: As no precise cause is known, it is unclear how to prevent BDD.</p><p>Treatment: BDD can be managed using high-dose antidepressants and cognitive behavioral therapy.</p><p>Differential: Anxiety and depressed mood are nonspecific symptoms of several psychiatric disorders. Given this patient's history of body modification to correct perceived flaws in her appearance, this patient most likely has BDD. Additional history about the amount of time spent thinking about her appearance is the most likely to confirm this diagnosis and differentiate it from other psychiatric disorders, including personality disorders. Additionally, the patient does not demonstrate symptoms of anorexia nervosa or illicit substance use; obtaining additional history about behavior associated with these disorders is less likely to lead to a diagnosis.</p><p>Incorrect Answers: A, C, D, E, F, and G.</p><p>Choice A: Ability to form meaningful personal relationships is incorrect. Personality disorders are characterized by pervasive difficulty in relating to the self and others. Though patients with BDD may experience a lack of meaningful personal relationships as a result of social isolation and anxiety, this patient's notable history of body modification and preoccupation with her appearance, as well as social anxiety and avoidance/isolation based on the fear of judgement for her appearance is most consistent with BDD.</p><p>Choice C: Anxiety is incorrect. Though patients with BDD may experience obsessive anxiety about their appearance, anxiety is a nonspecific symptom of several psychiatric disorders, so additional history about this is unlikely to help clarify the diagnosis.</p><p>Choice D: Depressed mood is incorrect. Though depression is commonly comorbid with BDD, depressed mood is a nonspecific symptom of several psychiatric disorders, so additional history about this is unlikely to help clarify the diagnosis.</p><p>Choice E and Choice G: Excessive weight loss by restrictive dieting and exercise and recurrent induced vomiting are incorrect. These symptoms are features of eating disorders (eg, anorexia nervosa, bulimia nervosa). Patients who meet criteria for an eating disorder are disqualified from the BDD diagnosis. This patient is not demonstrating symptoms of an eating disorder.</p><p>Choice F: Illicit drug use is incorrect. Illicit drug use is a feature of substance use disorders and is comorbid with many psychiatric disorders (eg, mood disorders, anxiety disorders, personality disorders). However, this patient does not present with signs or symptoms suggestive of substance use disorder. As such, asking about illicit drug use is unlikely to help clarify the diagnosis of BDD.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Ability to form meaningful personal relationships",
+      "is_correct": false
+    },
+    {
+      "text_html": "Amount of time spent thinking about her appearance",
+      "is_correct": true
+    },
+    {
+      "text_html": "Anxiety",
+      "is_correct": false
+    },
+    {
+      "text_html": "Depressed mood",
+      "is_correct": false
+    },
+    {
+      "text_html": "Excessive weight loss by restrictive dieting and exercise",
+      "is_correct": false
+    },
+    {
+      "text_html": "Illicit drug use",
+      "is_correct": false
+    },
+    {
+      "text_html": "Recurrent induced vomiting",
+      "is_correct": false
+    }
+  ]
+}
