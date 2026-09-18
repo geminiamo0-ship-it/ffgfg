@@ -1,0 +1,36 @@
+{
+  "id": 41,
+  "uworld_id": 41,
+  "text_html": "<p>A 34-year-old man comes to the physician because of a 1-week history of temperatures to 39°C (102.2°F) and pain with urination. Physical examination shows generalized abdominal tenderness and right flank tenderness. Active extension of the right hip produces right flank pain. Urinalysis shows 100 WBC/hpf. Irritation of which of the following structures is the most likely cause of this patient's pain on hip extension?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient presenting with fever, dysuria, right flank pain, and pyuria most likely has pyelonephritis, a urinary tract infection that has spread to the kidneys. In cases of pyelonephritis, irritation of the nearby psoas muscle can lead to pain with hip extension.</b></p><p>Evaluation: Pyelonephritis may present with symptoms such as flank pain, fever, chills, nausea, vomiting, and costovertebral tenderness on physical examination. Pyelonephritis can cause irritation to structures adjacent to the kidneys including the psoas muscle, which is stretched during active hip extension.</p><p>Definition: Urinary tract infections, if untreated, may result in pyelonephritis due to the retrograde travel of bacteria up the ureters to the kidneys. Urinalysis typically is positive for leukocyte esterase and nitrites along with many WBCs and WBC casts on microscopy.</p><p>Prevention: Pyelonephritis may be prevented by the early identification and treatment of a urinary tract infection.</p><p>Treatment: Treatment of pyelonephritis includes prompt initiation of antibiotics. The most common bacteria resulting in the infection is <i>Escherichia coli.</i></p><p>Differential: This patient presents with symptoms consistent with pyelonephritis, which can cause irritation to structures adjacent to the kidneys. The most likely cause of his flank pain on hip extension is irritation of the nearby psoas muscle as it is being stretched through this movement. The other structures are less likely to be associated with the patient’s pain, because unlike the psoas muscle, they are not stretched when the hip is extended, and irritation to them would cause pain in different regions (eg, thigh, groin, buttocks).</p><p>Incorrect Answers: A, B, C, D, and F.</p><p>Choice A: External iliac artery is incorrect. The external iliac artery does not lie in close proximity to the kidney as the aorta bifurcates inferiorly. Irritation of the psoas muscle is the more likely explanation.</p><p>Choice B: Femoral nerve is incorrect. Irritation of the femoral nerve may result in medial thigh and leg neuropathic pain. Irritation of the psoas muscle is more likely to produce flank pain.</p><p>Choice C: Genitofemoral nerve is incorrect. The genitofemoral nerve provides sensation to the medial thigh and groin. Irritation of the nerve would not likely produce flank pain.</p><p>Choice D: Piriformis muscle is not the most likely cause of this patient’s pain on hip extension. The piriformis muscle is located in the buttock and may be a cause of buttock pain. Pyelonephritis is unlikely to cause irritation of the piriformis.</p><p>Choice F: Testicular artery is incorrect. The testicular artery originates from the aorta near the level of the kidneys. Irritation of the psoas muscle is more likely in cases of pyelonephritis, which may result in flank pain on hip extension.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "External iliac artery",
+      "is_correct": false
+    },
+    {
+      "text_html": "Femoral nerve",
+      "is_correct": false
+    },
+    {
+      "text_html": "Genitofemoral nerve",
+      "is_correct": false
+    },
+    {
+      "text_html": "Piriformis muscle",
+      "is_correct": false
+    },
+    {
+      "text_html": "Psoas muscle",
+      "is_correct": true
+    },
+    {
+      "text_html": "Testicular artery",
+      "is_correct": false
+    }
+  ]
+}
