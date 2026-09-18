@@ -1,0 +1,33 @@
+{
+  "id": 94,
+  "uworld_id": 94,
+  "text_html": "<p>A 21-year-old man comes to the physician because of yellowing of his skin for 5 days. He also has a 2-year history of episodes of bloody diarrhea and fatigue. He appears thin. His temperature is 36.9°C (98.4°F), pulse is 92/min, and blood pressure is 120/72 mm Hg. Physical examination shows scleral icterus and jaundice. Laboratory studies show:<br><br>Hematocrit&nbsp;&nbsp;&nbsp;&nbsp;32%<br>Mean corpuscular volume&nbsp;&nbsp;&nbsp;&nbsp;76 μm³<br>Serum<br>&nbsp;&nbsp;&nbsp;&nbsp;Total bilirubin&nbsp;&nbsp;&nbsp;&nbsp;6 mg/dL<br>&nbsp;&nbsp;&nbsp;&nbsp;Alkaline phosphatase&nbsp;&nbsp;&nbsp;&nbsp;452 U/L<br>&nbsp;&nbsp;&nbsp;&nbsp;AST&nbsp;&nbsp;&nbsp;&nbsp;80 U/L<br>&nbsp;&nbsp;&nbsp;&nbsp;ALT&nbsp;&nbsp;&nbsp;&nbsp;92 U/L</p><p>Colonoscopy shows ulceration and inflammation throughout the colon, beginning in the rectum. Endoscopic retrograde cholangiopancreatography shows areas of stricturing and dilation of the biliary system. This patient is most likely to have a deficiency of which of the following vitamins?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient with bloody diarrhea suggestive of ulcerative colitis (UC) and biliary stricture most likely has a deficiency in vitamin D. Vitamin D is a fat-soluble vitamin that requires bile acids for absorption.</b></p><p>Evaluation: UC is an inflammatory bowel disease associated with bloody diarrhea, abdominal pain, weight loss, anemia, and fatigue. Patients may have multiple vitamin deficiencies of fat- or water-soluble nature due to impaired absorption.</p><p>Definition: UC is an inflammatory bowel disease characterized by mucosal inflammation and crypt abscesses of the large intestine. UC is diagnosed by colonoscopy with biopsy, which shows symmetric, circumferential, and continuous inflammation from the rectum through the large intestine. Patients with severe disease can develop primary sclerosing cholangitis, which causes scarring and obstruction of the biliary tree. Complications include strictures, malabsorption, and primary sclerosing cholangitis, which inhibits the release of bile acids into the intestines. Bile acids are critical for the absorption of fat-soluble vitamins A, D, E, and K.</p><p>Prevention: There are no preventive strategies for UC.</p><p>Treatment: First-line treatments for UC include sulfasalazine. For patients with refractory disease, glucocorticoids, azathioprine, tumor necrosis factor-α inhibitors, and vedolizumab are used. Colectomy may be curative. For patients with primary sclerosing cholangitis, endoscopic retrograde cholangiopancreatography–guided procedures such as stenting may be performed to open stenosed ducts; however, patients with severe disease may require liver transplantation.</p><p>Differential: In this patient with UC complicated by biliary stricture and dilation, there is a decreased ability to secrete bile acids into the intestines. Decreased bile acids in the intestines prevent the absorption of fat-soluble vitamins A, D, E, and K. Folic acid, niacin, vitamin B<sub>1</sub> (thiamine), and vitamin C are all water-soluble vitamins, which do not require bile acids for absorption.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Folic acid is incorrect. Folic acid absorption occurs within the duodenum and jejunum. Folic acid deficiency may occur in patients with alcohol use disorder and is also included in prenatal vitamins to prevent deficiency during pregnancy. Folic acid is a water-soluble vitamin, as opposed to vitamin D.</p><p>Choice B: Niacin is incorrect. Niacin absorption occurs in the small intestine. Niacin deficiency, known as pellagra, is associated with malnutrition and presents with diarrhea, dermatitis, and dementia in advanced cases. Niacin is a water-soluble vitamin.</p><p>Choice C: Vitamin B<sub>1</sub> (thiamine) is incorrect. Thiamine is a water-soluble vitamin, and deficiency may occur in malabsorption, malnutrition, or alcohol use disorder. Thiamine deficiency can result in neuropathy or heart failure in patients with sustained deficiency.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Folic acid is incorrect. Folic acid absorption occurs within the duodenum and jejunum. Folic acid deficiency may occur in patients with alcohol use disorder and is also included in prenatal vitamins to prevent deficiency during pregnancy. Folic acid is a water-soluble vitamin, as opposed to vitamin D.</p><p>Choice B: Niacin is incorrect. Niacin absorption occurs in the small intestine. Niacin deficiency, known as pellagra, is associated with malnutrition and presents with diarrhea, dermatitis, and dementia in advanced cases. Niacin is a water-soluble vitamin.</p><p>Choice C: Vitamin B<sub>1</sub> (thiamine) is incorrect. Thiamine is a water-soluble vitamin, and deficiency may occur in malabsorption, malnutrition, or alcohol use disorder. Thiamine deficiency can result in neuropathy or heart failure in patients with sustained deficiency.</p><p>Choice D: Vitamin C is incorrect. Vitamin C is a water-soluble vitamin that serves as a cofactor in collagen hydroxylation. Patients with vitamin C deficiency may develop gingival bleeding, corkscrew hairs, and perifollicular hemorrhage, and may bruise easily.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Folic acid",
+      "is_correct": false
+    },
+    {
+      "text_html": "Niacin",
+      "is_correct": false
+    },
+    {
+      "text_html": "Vitamin B<sub>1</sub> (thiamine)",
+      "is_correct": false
+    },
+    {
+      "text_html": "Vitamin C",
+      "is_correct": false
+    },
+    {
+      "text_html": "Vitamin D",
+      "is_correct": true
+    }
+  ]
+}
