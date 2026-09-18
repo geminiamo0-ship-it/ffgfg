@@ -20,49 +20,67 @@ jobs:
       - name: Inspect SQLite database
         shell: bash
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq sqlite3
-          {
-            echo '# NBME 34 Database Status'
-            echo
-            echo "Generated from commit: $(git rev-parse HEAD)"
-            echo
-            echo '## SQLite integrity'
-            echo '```text'
-            sqlite3 my_course_bank.db "PRAGMA integrity_check;"
-            echo '```'
-            echo
-            echo '## Tables'
-            echo '```text'
-            sqlite3 my_course_bank.db ".tables"
-            echo '```'
-            echo
-            echo '## Counts'
-            echo
-            echo "- Questions: $(sqlite3 my_course_bank.db \"SELECT COUNT(*) FROM questions;\")"
-            echo "- Options: $(sqlite3 my_course_bank.db \"SELECT COUNT(*) FROM options;\")"
-            echo
-            echo '## Latest IDs'
-            echo
-            echo "- Max question id: $(sqlite3 my_course_bank.db \"SELECT COALESCE(MAX(id),'') FROM questions;\")"
-            echo "- Max uworld_id: $(sqlite3 my_course_bank.db \"SELECT COALESCE(MAX(uworld_id),'') FROM questions;\")"
-            echo "- Max option id: $(sqlite3 my_course_bank.db \"SELECT COALESCE(MAX(id),'') FROM options;\")"
-            echo
-            echo '## Latest question rows'
-            echo '```text'
-            sqlite3 -header -column my_course_bank.db "SELECT id, uworld_id, subject, system, topic, source, created_at FROM questions ORDER BY id DESC LIMIT 10;"
-            echo '```'
-            echo
-            echo '## Question columns'
-            echo '```text'
-            sqlite3 -header -column my_course_bank.db "PRAGMA table_info(questions);"
-            echo '```'
-            echo
-            echo '## Option columns'
-            echo '```text'
-            sqlite3 -header -column my_course_bank.db "PRAGMA table_info(options);"
-            echo '```'
-          } > DB_STATUS.md
+          python3 - <<'PY'
+          import sqlite3, subprocess
+          from pathlib import Path
+
+          db = Path('my_course_bank.db')
+          con = sqlite3.connect(db)
+          con.row_factory = sqlite3.Row
+          cur = con.cursor()
+
+          integrity = cur.execute('PRAGMA integrity_check').fetchall()
+          tables = [r[0] for r in cur.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name")]
+
+          def cols(table):
+              return [r[1] for r in cur.execute(f'PRAGMA table_info({table})').fetchall()]
+
+          qcols = cols('questions') if 'questions' in tables else []
+          ocols = cols('options') if 'options' in tables else []
+          qcount = cur.execute('SELECT COUNT(*) FROM questions').fetchone()[0] if 'questions' in tables else None
+          ocount = cur.execute('SELECT COUNT(*) FROM options').fetchone()[0] if 'options' in tables else None
+
+          def scalar(sql):
+              try:
+                  return cur.execute(sql).fetchone()[0]
+              except Exception as e:
+                  return f'ERROR: {e}'
+
+          max_qid = scalar('SELECT MAX(id) FROM questions') if 'id' in qcols else 'N/A'
+          max_uwid = scalar('SELECT MAX(uworld_id) FROM questions') if 'uworld_id' in qcols else 'N/A'
+          max_oid = scalar('SELECT MAX(id) FROM options') if 'id' in ocols else 'N/A'
+
+          wanted = [c for c in ['id','uworld_id','subject','system','topic','source','created_at'] if c in qcols]
+          latest = []
+          if wanted:
+              order = 'id' if 'id' in qcols else wanted[0]
+              latest = cur.execute(f"SELECT {', '.join(wanted)} FROM questions ORDER BY {order} DESC LIMIT 10").fetchall()
+
+          commit = subprocess.check_output(['git','rev-parse','HEAD'], text=True).strip()
+          lines = ['# NBME 34 Database Status','',f'Generated from commit: `{commit}`','',
+                   '## SQLite integrity','```text', *[str(r[0]) for r in integrity], '```','',
+                   '## Tables','```text', '  '.join(tables), '```','',
+                   '## Counts','', f'- Questions: {qcount}', f'- Options: {ocount}','',
+                   '## Latest IDs','', f'- Max question id: {max_qid}', f'- Max uworld_id: {max_uwid}', f'- Max option id: {max_oid}','',
+                   '## Latest question rows','```text']
+          if latest:
+              widths = {c:max(len(c), *(len(str(r[c] if r[c] is not None else '')) for r in latest)) for c in wanted}
+              lines.append('  '.join(c.ljust(widths[c]) for c in wanted))
+              lines.append('  '.join('-'*widths[c] for c in wanted))
+              for r in latest:
+                  lines.append('  '.join(str(r[c] if r[c] is not None else '').ljust(widths[c]) for c in wanted))
+          else:
+              lines.append('(none)')
+          lines += ['```','','## Question columns','```text']
+          for r in cur.execute('PRAGMA table_info(questions)').fetchall():
+              lines.append(' | '.join(str(x) for x in r))
+          lines += ['```','','## Option columns','```text']
+          for r in cur.execute('PRAGMA table_info(options)').fetchall():
+              lines.append(' | '.join(str(x) for x in r))
+          lines += ['```','']
+          Path('DB_STATUS.md').write_text('\n'.join(lines), encoding='utf-8')
+          con.close()
+          PY
       - name: Commit status report
         shell: bash
         run: |
