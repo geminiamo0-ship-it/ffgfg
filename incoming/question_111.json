@@ -1,0 +1,33 @@
+{
+  "id": 111,
+  "uworld_id": 111,
+  "text_html": "<p>A 5-year-old girl is brought to the physician by her mother because of a 2-year history of recurrent episodes of abdominal pain and vomiting. Physical examination and laboratory studies show no abnormalities. An upper gastrointestinal barium study with small bowel follow-through is shown. Which of the following is the most likely cause of this patient's symptoms?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient, with a history of recurrent abdominal pain and vomiting, likely has a midgut malrotation. Malrotation can be recognized on imaging by the presence of small intestine in the right abdomen only. Malrotation increases the risk for midgut volvulus, in which the small bowel twists around the base of the superior mesenteric artery (SMA), causing small bowel obstruction.</b></p><p>Key Concept: Malrotation is a congenital anomaly in which the midgut incompletely rotates during development.</p><p>Explanation: Malrotation is a congenital anomaly in which the midgut incompletely rotates during development, leaving the midgut attached to a thin stalk of mesentery at the base of the SMA instead of the normally broad-based mesenteric stalk. The cecum also remains in an abnormal position within the mid-upper abdomen instead of the right lower quadrant and is attached to the lateral abdominal wall by fibrous bands, which cross over the top of the duodenum and can cause constriction. This abnormal anatomy leaves the small intestine at risk for midgut volvulus originating at the base of the SMA, causing bowel obstruction. While most patients present with symptoms in the first year of life, some individuals do not present until later childhood or adulthood. Supine upper gastrointestinal barium series will show the presence of the small intestine only within the right abdomen. In its usual anatomic position, the duodenum crosses the midline toward the ligament of Treitz and the remaining small intestine courses throughout the abdominal quadrants.</p><p>Differential: This patient's history of episodic abdominal pain and vomiting is suggestive of recurrent bowel obstruction. Combined with imaging findings showing small intestine in the right abdomen only, the most likely diagnosis is malrotation of the gut causing intermittent, self-limited midgut volvulus.</p><p>Incorrect Answers: A, B, C, and E.</p><p>Choice A: Duodenal atresia is incorrect. Caused by failure of recanalization of the duodenal lumen during fetal development, duodenal atresia presents with vomiting and abdominal distension in newborns. Upper gastrointestinal barium studies show distension of the stomach and duodenum. This patient has tolerated oral feeding for most of her life, which is not consistent with complete intestinal obstruction.</p><p>Choice B: Esophageal reflux is incorrect. Gastroesophageal reflux disease is caused by acid reflux into the lower esophagus. It presents with frequent regurgitation, chest discomfort, and chronic cough. This patient's episodic vomiting is more consistent with bowel obstruction, and her imaging findings are consistent with malrotation.</p><p>Choice C: Ileal atresia is incorrect. Ileal atresia is commonly caused by vascular occlusion in a segment of bowel during fetal development, usually in the setting of maternal smoking or use of cocaine. The newborn typically presents with poor feeding and emesis, and on imaging exhibits multiple air-fluid levels in the small bowel proximal to the site of atresia causing obstruction. This patient has tolerated oral feeding for most of her life, which is not consistent with complete intestinal obstruction.</p><p>Choice E: Pyloric stenosis is incorrect. Pyloric stenosis is caused by hypertrophy of the pyloric sphincter, resulting in gastric outlet obstruction, which typically first presents at around ages 3 to 6 weeks. It is characterized by repeated vomiting after feeds, leading to dehydration and hypochloremic, hypokalemic metabolic alkalosis. This patient is older, and her imaging findings are more consistent with malrotation.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Duodenal atresia",
+      "is_correct": false
+    },
+    {
+      "text_html": "Esophageal reflux",
+      "is_correct": false
+    },
+    {
+      "text_html": "Ileal atresia",
+      "is_correct": false
+    },
+    {
+      "text_html": "Malrotation of the gut",
+      "is_correct": true
+    },
+    {
+      "text_html": "Pyloric stenosis",
+      "is_correct": false
+    }
+  ]
+}
