@@ -1,0 +1,51 @@
+name: Keep New Media Local
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/keep-new-media-local.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix question 43 media link and remove uploaded media
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import sqlite3
+          con = sqlite3.connect('my_course_bank.db')
+          cur = con.cursor()
+          row = cur.execute('SELECT text_html FROM questions WHERE id=43').fetchone()
+          if not row:
+              raise SystemExit('Question 43 not found')
+          html = row[0]
+          html = html.replace('offline_media/43_stem_img_0.webp', 'offline_media/43_stem_img_0.jpg')
+          html = html.replace('offline_media/43_stem_img_0.png', 'offline_media/43_stem_img_0.jpg')
+          cur.execute('UPDATE questions SET text_html=? WHERE id=43', (html,))
+          con.commit()
+          integrity = cur.execute('PRAGMA integrity_check').fetchone()[0]
+          if integrity != 'ok':
+              raise SystemExit(f'integrity_check failed: {integrity}')
+          print('Q43_TEXT_HTML:', html)
+          print('Integrity:', integrity)
+          con.close()
+          PY
+          rm -f offline_media/43_stem_img_0.webp
+          rm -f .github/workflows/fix-q43.yml
+          rm -f .github/workflows/keep-new-media-local.yml
+      - name: Commit cleanup
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Keep new question media local"
+          git push
