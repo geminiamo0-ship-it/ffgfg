@@ -1,0 +1,32 @@
+{
+  "id": 66,
+  "uworld_id": 66,
+  "text_html": "<p>A 21-year-old prison inmate is misdiagnosed with tuberculosis because of a laboratory error. The misdiagnosis is not discovered until after the patient begins treatment. When informed of the error, the patient threatens to \"get the son of a bitch who did this.\" He has a history of abusive behavior and has lied about his violent behavior on several occasions. Which of the following is the most likely diagnosis?</p>",
+  "explanation_html": "<p><b>Educational Objective: The most likely diagnosis in this patient is antisocial personality disorder. Antisocial personality disorder features pervasive violations of others’ rights, aggression, as seen in this patient, and a hostile and manipulative attitude toward others.</b></p><p>Evaluation: Antisocial personality disorder is a cluster B (emotional or dramatic) personality disorder that arises from a deficit in empathy, resulting in pervasive violations of others’ rights, aggression, and a hostile and manipulative attitude toward others. Similar to other cluster B personality disorders, patients with antisocial personality disorder struggle to regulate their emotions because their frustration tolerance is low and they frequently behave impulsively.</p><p>Definition: It is postulated that deficient serotonin combined with harsh parenting leads to a propensity toward a dysphoric affect, which usually leads to self-harm behavior in women (reflecting borderline personality disorder) and violent behavior toward others in men (reflecting antisocial personality disorder). These patients may also be chronically bored and, thus, seek sensation, leading to a high rate of disordered substance use and gambling. These personality traits lead to deficits in personal functioning (extreme egocentrism) and interpersonal functioning (empathy, intimacy).</p><p>Prevention: Positive parenting may help prevent antisocial personality disorder.</p><p>Treatment: Evidence-based treatments are lacking, though there is emerging evidence for mentalization-based therapy, a type of psychotherapy that helps build empathy.</p><p>Differential: While borderline personality disorder can involve sensation-seeking behavior and aggressive urges, these individuals typically turn their aggression inward, resulting in self-harm tendencies.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Borderline personality disorder is incorrect. Borderline personality disorder is a cluster B personality disorder that features an unstable sense of self and tumultuous relationships. While borderline personality disorder can involve sensation-seeking behavior and aggressive urges, these individuals typically turn their aggression inward, resulting in self-harm.</p><p>Choice C: Dissociative identity disorder is incorrect. Dissociative identity disorder, formerly known as multiple personality disorder, involves the recurring transition between several identities and is frequently related to childhood trauma. Patients with antisocial personality disorder tend to be pervasively violent rather than switch between several identities.</p><p>Choice D: Paranoid personality disorder is incorrect. Paranoid personality disorder is a cluster A (odd or eccentric) personality disorder, characterized by a pervasive mistrust of others and view of others as possessing malicious intent. These individuals are typically fearful rather than aggressive, as in antisocial personality disorder.</p><p>Choice E: Passive-aggressive personality disorder is incorrect. Passive-aggressive personality disorder is no longer an accepted psychiatric diagnosis but previously referred to a pattern of indirectly expressed hostility. Patients with antisocial personality disorder express hostility directly.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "Antisocial personality disorder",
+      "is_correct": true
+    },
+    {
+      "text_html": "Borderline personality disorder",
+      "is_correct": false
+    },
+    {
+      "text_html": "Dissociative identity disorder",
+      "is_correct": false
+    },
+    {
+      "text_html": "Paranoid personality disorder",
+      "is_correct": false
+    },
+    {
+      "text_html": "Passive-aggressive personality disorder",
+      "is_correct": false
+    }
+  ]
+}
