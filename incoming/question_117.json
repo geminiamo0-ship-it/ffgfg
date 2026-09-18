@@ -1,0 +1,33 @@
+{
+  "id": 117,
+  "uworld_id": 117,
+  "text_html": "<p>A 39-year-old woman, gravida 4, para 3, at 33 weeks' gestation is brought to the emergency department by her husband because of a 1-day history of painless vaginal bleeding. Two of the patient's children were born via cesarean delivery. Her temperature is 37.1°C (98.8°F), pulse is 77/min, and blood pressure is 128/89 mm Hg. Fetal heart rate is 157/min. Urine dipstick analysis shows no RBCs, WBCs, or bacteria. Before performing a pelvic examination, it is most appropriate for the physician to consider the possibility of which of the following diagnoses?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient’s painless third-trimester vaginal bleeding and history of prior cesarean deliveries are most suggestive of placenta previa. Pelvic examination should be avoided until placenta previa is excluded, as manipulation of a bleeding placenta could worsen bleeding or introduce infection.</b></p><p>Evaluation: Painless vaginal bleeding in the third trimester is suggestive of placenta previa. History of multiple prior cesarean deliveries is a known risk factor for abnormal placentation. Importantly, in placenta previa, bleeding is not associated with uterine tenderness or contractions.</p><p>Definition: Placenta previa occurs when the placenta implants over or near the cervical os, leading to bleeding as the lower uterine segment thins in the third trimester of pregnancy. Prior uterine surgery, including cesarean deliveries, increases the risk for placenta previa as scarring alters placental implantation sites. When the cervix begins to efface or dilate, placental vessels can shear, causing painless hemorrhage. Digital pelvic examination can precipitate catastrophic bleeding.</p><p>Prevention: Risk for placenta previa is decreased by limiting unnecessary cesarean deliveries and ensuring appropriate prenatal imaging to identify placental location. Early ultrasonography screening in high-risk patients helps prevent complications.</p><p>Treatment: Management of placenta previa includes avoidance of digital pelvic examination, confirmation of placenta previa with transvaginal ultrasonography, and planned cesarean delivery if placenta previa persists at term. Severe bleeding may require hospitalization and emergent delivery.</p><p>Differential: The key features of this patient’s presentation (painless third-trimester bleeding, prior cesarean deliveries, and stable maternal/fetal status) are classic for placenta previa. The other answer choices represent alternate diagnoses that are less likely because they typically present with pain, absence of bleeding, uterine tenderness, or symptoms that begin postpartum.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: Abruptio placentae is not the most likely diagnosis. Abruptio placentae typically presents with painful vaginal bleeding, uterine tenderness, and increased uterine tone, which are absent in this patient’s presentation. Abruptio placentae is more commonly associated with hypertension or trauma.</p><p>Choice B: Placenta accreta is incorrect. Placenta accreta involves abnormal placental adherence to the endometrium and usually presents with severe postpartum hemorrhage rather than antepartum bleeding. Placenta accreta is not a primary cause of painless third-trimester bleeding.</p><p>Choice D: Placental mesenchymal dysplasia is incorrect. Placental mesenchymal dysplasia is a rare condition associated with placentomegaly and fetal growth abnormalities, not acute vaginal bleeding.</p><p>Choice E: Placentitis is incorrect. Placentitis refers to placental infection, often associated with fever and uterine tenderness, none of which are present in this patient.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Abruptio placentae",
+      "is_correct": false
+    },
+    {
+      "text_html": "Placenta accreta",
+      "is_correct": false
+    },
+    {
+      "text_html": "Placenta previa",
+      "is_correct": true
+    },
+    {
+      "text_html": "Placental mesenchymal dysplasia",
+      "is_correct": false
+    },
+    {
+      "text_html": "Placentitis",
+      "is_correct": false
+    }
+  ]
+}
