@@ -1,0 +1,33 @@
+{
+  "id": 119,
+  "uworld_id": 119,
+  "text_html": "<p>A 1-year-old girl is evaluated because of irritability, failure to thrive, and an enlarged abdomen. Physical examination shows massive hepatomegaly. Laboratory studies show fasting hypoglycemia, ketonemia, lipemia, and hyperuricemia. A biopsy specimen of hepatic tissue shows an increased concentration of glycogen. Intravenous administration of fructose or galactose does not increase serum glucose concentrations. The most likely cause of this patient's condition is a deficiency of which of the following enzyme activities?</p>",
+  "explanation_html": "<p><b>Educational Objective: In this young girl with irritability, failure to thrive, hepatomegaly, increased glycogen stores, and hypoglycemia following fructose and galactose challenge, the most likely cause is deficiency of glucose-6-phosphatase in the setting of glycogen storage disease, type I.</b></p><p>Evaluation: Patients with glycogen storage disease, type I, present with severe fasting hypoglycemia, hepatomegaly, and failure to thrive at an early age. Laboratory studies show hypoglycemia, ketonemia, hypertriglyceridemia, and hyperuricemia. These patients are unable to increase glucose concentrations following administration of fructose or galactose administration. Diagnosis of glycogen storage disease, type I, is based on genetic testing.</p><p>Definition: Glucose 6-phosphatase is involved in gluconeogenesis and glycolysis and allows for the release of extrahepatic glucose. Deficiency of glucose 6-phosphatase prevents the breakdown of glucose 6-phosphate to glucose, causing the clinical presentation of glycogen storage disease, type I.</p><p>Prevention: There is no specific prevention for glycogen storage disease, type I, as it is a heritable genetic inborn error of metabolism.</p><p>Treatment: Treatment for glycogen storage disease aims to avoid hypoglycemia through frequent meals, a high-protein diet, and avoidance of fructose and sucrose.</p><p>Differential: In this case, failure to thrive, hepatomegaly, sufficient glycogen stores, and inability to raise blood sugar in response to fructose or galactose narrows the differential to glucose 6-phosphatase deficiency (glycogen storage disease, type I).</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: Glucose-6-phosphate dehydrogenase is incorrect. Glucose 6-phosphate dehydrogenase deficiency is associated with development of acute hemolytic anemia. Triggers for acute hemolytic anemia in patients with glucose 6-phosphate dehydrogenase deficiency include infections, medications, or fava beans (oxidant stressors).</p><p>Choice C: Glycogen phosphorylase is incorrect. Glycogen phosphorylase is involved in glycogenolysis and is associated with glycogen storage disease, type V. Glycogen storage disease, type V, is associated with exercise intolerance, muscle fatigue, and cramps that present in childhood or young adulthood.</p><p>Choice D: Glycogen synthase is incorrect. Glycogen synthase is associated with glycogen synthesis. Deficiency of glycogen synthase may cause hypoglycemia; however, it is not associated with hepatomegaly.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Glucose-6-phosphatase",
+      "is_correct": true
+    },
+    {
+      "text_html": "Glucose-6-phosphate dehydrogenase",
+      "is_correct": false
+    },
+    {
+      "text_html": "Glycogen phosphorylase",
+      "is_correct": false
+    },
+    {
+      "text_html": "Glycogen synthase",
+      "is_correct": false
+    },
+    {
+      "text_html": "Hypoxanthine-guanine phosphoribosyltransferase",
+      "is_correct": false
+    }
+  ]
+}
