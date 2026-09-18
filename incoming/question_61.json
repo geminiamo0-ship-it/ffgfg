@@ -1,0 +1,32 @@
+{
+  "id": 61,
+  "uworld_id": 61,
+  "text_html": "<p>A randomized controlled trial is conducted to assess the efficacy of aspirin plus clopidogrel compared with aspirin plus placebo for the treatment of acute myocardial infarction (MI). Of the 2000 patients with acute MI enrolled, 1000 patients receive aspirin plus clopidogrel (Group A), and 1000 patients receive aspirin plus placebo (Group B). After 2 years of therapy, results show recurrence of MI or death among 60 patients in Group A, compared with 80 patients in Group B (<i>p</i>&lt;0.05). Which of the following best represents the absolute risk reduction for recurrence of MI or death among patients in Group A?</p>",
+  "explanation_html": "<p><b>Educational Objective: Absolute risk reduction (ARR) is the difference in event rates between control and treatment groups in a clinical trial. ARR quantifies the actual decrease in risk attributable to an intervention and is essential for calculating number needed to treat (NNT). In this study, the control group (B) has an event rate of 80 / 1000 = 0.08, while the treatment group (A) has an event rate of 60 / 1000 = 0.06, making the ARR 0.02.</b></p><p>Key Concept: In randomized controlled trials, outcomes are compared between intervention and control groups using event rates. ARR is calculated as control event rate minus treatment event rate.</p><p>Explanation: ARR represents the difference in outcome frequency between two groups. In this study, the control group (aspirin plus placebo) has an event rate of 80 / 1000 = 0.08, while the treatment group (aspirin plus clopidogrel) has an event rate of 60 / 1000 = 0.06. Subtracting these yields an ARR of 0.02. ARR provides a clinically meaningful measure of benefit and is used to calculate the NNT (NNT = 1 / ARR).</p><p>Differential: In this randomized trial, ARR is calculated directly from the difference in event rates between the treatment and control groups. The small difference in proportions (0.08 versus 0.06) corresponds to an ARR of 0.02.</p><p>Incorrect Answers: B, C, D, and E.</p><p>Choice B: 0.025 is incorrect. 0.025 may reflect an error in calculation. 0.025 cannot be easily calculated from the numbers in this study.</p><p>Choice C: 0.2 is incorrect. 0.2 is an order of magnitude above the correct answer, 0.02.</p><p>Choice D: 0.25 is not the best choice. 0.25 reflects the relative risk reduction of the study. Relative risk reduction is equal to the risk in the control group, minus the risk in the experimental group, divided by the risk in the control group, or [(80 / 1000) – (60 / 1000)] / (80 / 1000) = (0.08 – 0.06) / 0.08 = 0.25.</p><p>Choice E: 0.5 is incorrect. 0.5 may reflect an error in calculation. 0.5 cannot be easily calculated from the numbers in the study.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "0.02",
+      "is_correct": true
+    },
+    {
+      "text_html": "0.025",
+      "is_correct": false
+    },
+    {
+      "text_html": "0.2",
+      "is_correct": false
+    },
+    {
+      "text_html": "0.25",
+      "is_correct": false
+    },
+    {
+      "text_html": "0.5",
+      "is_correct": false
+    }
+  ]
+}
