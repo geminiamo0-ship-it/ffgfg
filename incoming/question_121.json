@@ -1,0 +1,33 @@
+{
+  "id": 121,
+  "uworld_id": 121,
+  "text_html": "<p>A 12-year-old girl is brought to the office for a well-child examination. She says she feels well. She has no history of major medical illness and receives no medications. She does not smoke cigarettes, drink alcoholic beverages, or use illicit drugs. She is at the 50th percentile for height and weight. Vital signs are within normal limits. Physical examination shows enlargement of the breasts and the areolae without development of a secondary mound. There is dark, coarse, curly hair thinly covering the pubic area. The remainder of the examination shows no abnormalities. Which of the following best describes the sexual maturity rating for this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: This patient’s pubertal development is sexual maturity rating (SMR) stage 3, marked by developing breasts without secondary mounds, and pubic hair that is beginning to darken but remains localized to the vulva.</b></p><p>Key Concept: SMR is used to assess pubertal development based on secondary sexual characteristics, particularly breast development and pubic hair growth in patients assigned female at birth.</p><p>Explanation: Pubertal development progresses in a predictable sequence. SMR stage 1 represents prepubertal status, while SMR stage 5 indicates full adult maturity. SMR stage 3 is characterized by continued enlargement of the breast and areola without formation of a secondary mound, and pubic hair becomes darker, coarser, and curlier, spreading sparsely over the pubic area. This patient’s findings are classic for SMR stage 3. Her age and otherwise normal growth parameters support normal pubertal development.</p><p>Differential: Earlier SMR stages would lack significant breast tissue or pubic hair, whereas later stages would show a distinct secondary mound of the areola or adult-type pubic hair distribution.</p><p>Incorrect Answers: A, B, D, and E.</p><p>Choice A: 1 is incorrect. SMR stage 1 describes the prepubescent stage. This patient has signs of developing puberty, including breast development and pubic hair development.</p><p>Choice B: 2 is incorrect. SMR stage 2 involves breast budding and sparse pubic hair, which is less advanced than this patient’s findings.</p><p>Choice D: 4 is incorrect. SMR stage 4 includes formation of a secondary mound of the areola and more extensive pubic hair.</p><p>Choice E: 5 is incorrect. SMR stage 5 reflects full adult maturity, marked by complete breast development and pubic hair that generally extends to the thigh.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "1",
+      "is_correct": false
+    },
+    {
+      "text_html": "2",
+      "is_correct": false
+    },
+    {
+      "text_html": "3",
+      "is_correct": true
+    },
+    {
+      "text_html": "4",
+      "is_correct": false
+    },
+    {
+      "text_html": "5",
+      "is_correct": false
+    }
+  ]
+}
