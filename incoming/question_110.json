@@ -1,0 +1,33 @@
+{
+  "id": 110,
+  "uworld_id": 110,
+  "text_html": "<p>A 3-year-old boy is brought to the physician by his mother for a follow-up examination. He has had recurrent sinus and respiratory tract infections including three episodes of pneumococcal pneumonia and bacteremia since birth. He is at the 48th percentile for height and 50th percentile for weight. Physical examination shows no other abnormalities. Which of the following is the most likely diagnosis?</p>",
+  "explanation_html": "<p><b>Educational Objective: This 3-year-old male patient with recurrent sinus and respiratory infections since birth likely has X-linked agammaglobulinemia.</b></p><p>Evaluation: This patient has a history of recurrent sinopulmonary and bloodstream infections with encapsulated organisms, including <i>Streptococcus pneumoniae</i>, since birth. Despite frequent infections, he has had normal growth and has no physical abnormalities. This presentation is suggestive of a primary immunodeficiency, which can be confirmed through genetic and functional testing.</p><p>Definition: X-linked agammaglobulinemia (also called Bruton agammaglobulinemia) is caused by a mutation in <i>BTK</i>, resulting in the failure of B-lymphocyte maturation. Affected patients have markedly decreased or absent mature B lymphocytes and immunoglobulins, leading to impaired humoral immunity. X-linked agammaglobulinemia typically presents in male infants after maternal IgG wanes at approximately age 6 months, with recurrent infections by encapsulated bacteria.</p><p>Prevention: Early recognition is important as this is a genetic disease without known preventive measures. Prophylactic antibiotics may decrease infection risk.</p><p>Treatment: Treatment consists of antibiotics to manage infections along with lifelong intravenous immunoglobulin replacement therapy, which provides passive immunity and decreases infection frequency.</p><p>Differential: Primary immunodeficiencies have many causes and differential considerations including Chédiak-Higashi syndrome and Wiskott-Aldrich syndrome; however, these conditions will have focal examination findings beyond recurrent infections.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Chédiak-Higashi syndrome is not the most likely diagnosis. Chédiak-Higashi syndrome presents with albinism and neuropathy in addition to neutrophil dysfunction. Patients may experience frequent infections from a variety of pathogens; however, this patient has recurrent pulmonary infections and lacks albinism.</p><p>Choice B: Chronic granulomatous disease is incorrect. Chronic granulomatous disease presents with recurrent infections that are generally bacterial and fungal, affecting a wide variety of organ systems. Chronic granulomatous disease is caused by a failure of the oxidative burst, not by failure of B-lymphocyte maturation.</p><p>Choice C: Severe combined immunodeficiency is incorrect. Severe combined immunodeficiency generally occurs from infancy and presents with recurrent bacterial, viral, and fungal infections as well as failure to thrive.</p><p>Choice D: Wiskott-Aldrich syndrome is incorrect. Wiskott-Aldrich syndrome presents with recurrent infections but also eczema/dermatitis and thrombocytopenia. This patient has no skin abnormalities on physical examination.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Chédiak-Higashi syndrome",
+      "is_correct": false
+    },
+    {
+      "text_html": "Chronic granulomatous disease",
+      "is_correct": false
+    },
+    {
+      "text_html": "Severe combined immunodeficiency",
+      "is_correct": false
+    },
+    {
+      "text_html": "Wiskott-Aldrich syndrome",
+      "is_correct": false
+    },
+    {
+      "text_html": "X-linked agammaglobulinemia",
+      "is_correct": true
+    }
+  ]
+}
