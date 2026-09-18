@@ -1,0 +1,33 @@
+{
+  "id": 118,
+  "uworld_id": 118,
+  "text_html": "<p>A 55-year-old woman comes to the office because of a 5-month history of weakness, fatigue, and upper abdominal pain that occurs after meals. She does not smoke or drink alcoholic beverages. Her vital signs are within normal limits. Physical examination shows pallor. The results of laboratory studies are shown:</p><p>Hemoglobin&nbsp;&nbsp;&nbsp;&nbsp;9.6 g/dL<br>Hematocrit&nbsp;&nbsp;&nbsp;&nbsp;28.8%<br>Erythrocyte count&nbsp;&nbsp;&nbsp;&nbsp;2.8 million/mm<sup>3</sup><br>Mean corpuscular hemoglobin&nbsp;&nbsp;&nbsp;&nbsp;31 pg/cell<br>Mean corpuscular volume&nbsp;&nbsp;&nbsp;&nbsp;110 μm<sup>3</sup><br>Leukocyte count&nbsp;&nbsp;&nbsp;&nbsp;3700/mm<sup>3</sup><br>Reticulocyte count&nbsp;&nbsp;&nbsp;&nbsp;1.1%<br>Platelet count&nbsp;&nbsp;&nbsp;&nbsp;149,000/mm<sup>3</sup></p><p>A peripheral blood smear shows hypersegmented neutrophils. Esophagogastroduodenoscopy shows a loss of rugal folds in the body and fundus of the stomach. A biopsy specimen from the gastric fundus shows glandular atrophy and lymphocytic inflammation. Serologic testing is most likely to show antibodies against which of the following?</p>",
+  "explanation_html": "<p><b>Educational Objective: Pernicious anemia is a subtype of atrophic gastritis caused by anti-intrinsic factor (IF) antibodies, which lead to atrophy and inflammation of the body and fundus of the stomach, as well as vitamin B<sub>12</sub> (cobalamin) deficiency, which are present in this patient’s case. Manifestations of vitamin B<sub>12</sub> deficiency include fatigue, pallor, cognitive impairment, peripheral neuropathy, glossitis, and megaloblastic anemia.</b></p><p>Key Concept: IF is secreted by gastric parietal cells, which reside in the body and fundus of the stomach. IF binds vitamin B<sub>12</sub> in the duodenum and facilitates its absorption in the terminal ileum. Anti-IF antibodies disrupt this process, leading to pernicious anemia.</p><p>Explanation: Pernicious anemia is an autoimmune disorder characterized by vitamin B<sub>12</sub> deficiency. Manifestation is generally insidious in onset and can include fatigue, pallor, cognitive impairment, peripheral neuropathy (secondary to subacute combined degeneration of the spinal cord), glossitis, and megaloblastic anemia. Megaloblastic anemia occurs in the setting of impaired DNA synthesis, most related to folate or vitamin B<sub>12</sub> deficiency, and is classically characterized by erythrocyte macrocytosis and hypersegmented neutrophils. Laboratory studies show anemia, increased mean corpuscular volume, normal white cell and platelet indices, and normal iron concentrations.</p><p>Differential: Loss of rugal folds, along with glandular atrophy and lymphocytic inflammation on histology, are indicative of atrophic gastritis. The two most common causes of atrophic gastritis are chronic <i>Helicobacter pylori</i> infection and autoimmune (anti-IF) gastritis. <i>H pylori</i> gastritis can be uni- or multifocal, while autoimmune gastritis affects primarily the body and fundus of the stomach, as with this patient. This patient’s laboratory studies show megaloblastic anemia, which also suggests anti-IF gastritis and B<sub>12</sub> deficiency.</p><p>Incorrect Answers: A, B, C, and E.</p><p>Choice A: Gastrin is incorrect. Gastrin is typically produced by G cells, which reside in the stomach antrum, duodenum, and pancreas. Gastrin stimulates parietal cells to release protons in order to form hydrochloric acid. Atrophic gastritis associated with anti-gastrin antibodies is uncommon. When present, inflammation would most prominently be in the antrum, duodenum, and pancreas, unlike in this patient.</p><p>Choice B: <i>Giardia lamblia</i> is incorrect. <i>G lamblia</i> is a flagellated, parasitic organism that causes giardiasis. Parasitic overgrowth of the small bowel leads to intestinal malabsorption. Giardiasis presents with persistent diarrhea that is foul-smelling and fatty, as well as abdominal pain, bloating, cramping, and weight loss. This patient does not have steatorrhea.</p><p>Choice C: <i>Helicobacter pylori</i> is not the best choice. While <i>H pylori</i> is a known cause of gastritis, gastritis arising from <i>H pylori</i> is not associated with deficiency of vitamin B<sub>12</sub> leading to megaloblastic anemia.</p><p>Choice E: Transglutaminase is incorrect. The diagnosis of celiac disease can be confirmed by the detection of serum anti-transglutaminase antibodies.</p><p>Choice E: Transglutaminase is incorrect. The diagnosis of celiac disease can be confirmed by the detection of serum anti-transglutaminase antibodies. Celiac disease is a gluten-sensitive enteropathy that is mediated by immune intolerance of the protein gliadin, commonly found in wheat products. This results in inflammatory infiltration of the proximal small bowel and subsequent malabsorption of fat and nutrients including iron. This can manifest with steatorrhea and microcytic anemia, not macrocytic anemia as seen in this patient.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [],
+  "options": [
+    {
+      "text_html": "Gastrin",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Giardia lamblia</i>",
+      "is_correct": false
+    },
+    {
+      "text_html": "<i>Helicobacter pylori</i>",
+      "is_correct": false
+    },
+    {
+      "text_html": "Intrinsic factor",
+      "is_correct": true
+    },
+    {
+      "text_html": "Transglutaminase",
+      "is_correct": false
+    }
+  ]
+}
