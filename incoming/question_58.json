@@ -1,0 +1,32 @@
+{
+  "id": 58,
+  "uworld_id": 58,
+  "text_html": "<p>A 43-year-old man of Italian descent comes to the physician because of a 3-day history of fatigue and intermittent abdominal pain. He has noticed that his urine is dark. Two weeks ago, he was treated for a <i>Salmonella</i> infection with antibiotics; he has been otherwise healthy. He has not had fever, vomiting, or diarrhea. Physical examination shows pallor and mild jaundice. Laboratory studies show a hemoglobin concentration of 9 g/dL, and serum total bilirubin concentration of 4 mg/dL. Which of the following is the most likely cause of the anemia in this patient?</p>",
+  "explanation_html": "<p><b>Educational Objective: The most likely cause of this patient’s episodic hemolytic anemia is reduced glutathione concentration in erythrocytes triggered by infection or medications. These findings are most consistent with glucose 6-phosphate dehydrogenase deficiency.</b></p><p>Evaluation: This patient presents with acute fatigue, jaundice, pallor, and dark urine, indicating hemolysis with hemoglobinuria. The anemia developed shortly after treatment for infection, a common oxidative stressor, and laboratory findings show increased bilirubin consistent with increased red blood cell destruction. The absence of chronic symptoms and the abrupt onset following a trigger point toward an episodic hemolytic process rather than a structural red cell disorder.</p><p>Definition: Glucose 6-phosphate dehydrogenase deficiency is an X-linked enzymatic disorder that impairs the ability of red blood cells to generate NADPH through the pentose phosphate pathway. NADPH is required to maintain glutathione in its reduced form, which protects hemoglobin and the erythrocyte membrane from oxidative damage. When exposed to oxidative stress from infections, certain medications, or foods, red blood cells undergo hemoglobin denaturation and membrane injury, leading to intravascular and extravascular hemolysis. This results in acute anemia, jaundice, and dark urine. This condition is most commonly seen in patients of Mediterranean ancestry.</p><p>Prevention: Prevention involves avoidance of known oxidative triggers and early treatment of infections in patients with known glucose 6-phosphate dehydrogenase deficiency.</p><p>Treatment: Management is supportive with removal of the precipitating factor, hydration, and transfusion if anemia is severe.</p><p>Differential: Hereditary membrane disorders cause chronic hemolysis rather than episodic, trigger-dependent anemia. Hemoglobinopathies produce persistent abnormalities in red cell structure or function rather than acute oxidative injury.</p><p>Incorrect Answers: A, B, C, and D.</p><p>Choice A: Alteration in erythrocyte membrane surface antigen is incorrect. Immune-mediated hemolysis involves antibody binding and complement activation rather than oxidant-induced red cell injury.</p><p>Choice B: Cytoskeletal protein defect of erythrocyte membrane is incorrect. Structural membrane defects such as hereditary spherocytosis cause lifelong hemolysis and splenomegaly, not sudden episodes after oxidative stress.</p><p>Choice C: Decreased pyruvate kinase activity in erythrocytes is incorrect. Pyruvate kinase deficiency leads to chronic hemolysis as a result of adenosine triphosphate depletion, not episodic hemolysis triggered by medications or infection.</p><p>Choice D: Point mutation in gene encoding β-globin molecules is incorrect. β-Globin disorders cause chronic anemia with characteristic red cell morphologies rather than acute hemoglobinuria following oxidative exposure.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "Alteration in erythrocyte membrane surface antigen",
+      "is_correct": false
+    },
+    {
+      "text_html": "Cytoskeletal protein defect of erythrocyte membrane",
+      "is_correct": false
+    },
+    {
+      "text_html": "Decreased pyruvate kinase activity in erythrocytes",
+      "is_correct": false
+    },
+    {
+      "text_html": "Point mutation in gene encoding β-globin molecules",
+      "is_correct": false
+    },
+    {
+      "text_html": "Reduced glutathione concentration in erythrocytes",
+      "is_correct": true
+    }
+  ]
+}
