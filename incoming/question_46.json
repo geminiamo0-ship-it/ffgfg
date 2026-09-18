@@ -1,0 +1,32 @@
+{
+  "id": 46,
+  "uworld_id": 46,
+  "text_html": "<p>A 70-year-old man undergoes a colonoscopy for cancer screening. He has no symptoms. Colonoscopy shows numerous pouches as shown in the photograph. These anomalies are most likely located in which of the following portions of the sigmoid colon wall?</p><img src=\"offline_media/46_stem_img_0.png\"/>",
+  "explanation_html": "<p><b>Educational Objective: The colonoscopy findings in this patient are suggestive of diverticulosis, which is characterized by sac-like protrusions of the colonic wall and is hypothesized to develop secondary to increased intraluminal pressure that predisposes the herniation of mucosa and submucosa through the muscularis propria. This occurs at the sites of penetration of vasa recta into the smooth muscle layer of the sigmoid colon wall.</b></p><p>Key Concept: Diverticula are outpouchings of the mucosal and submucosal layers into the muscular layer that occur at weak points in the gut wall where the small arterioles of the vasa recta penetrate the muscularis.</p><p>Explanation: The layers of the gastrointestinal wall, from the luminal surface to the exterior of the bowel, include the mucosa, submucosa, muscularis propria, and serosa. Diverticulosis is characterized by sac-like protrusions of the colonic wall and is hypothesized to develop secondary to increased intraluminal pressure that predisposes the herniation of mucosa and submucosa through the muscularis propria. This may happen most commonly in the sigmoid colon because the diameter of the sigmoid is smaller than other parts of the colon, so abnormal peristalsis in this area causes higher intraluminal pressure compared to other segments. Risk factors for the development of diverticulosis include abnormal colonic motility, high dietary intake of red meat and low dietary fiber, physical inactivity, and obesity. Complications of diverticular disease include bleeding and diverticulitis.</p><p>Differential: Colonic diverticula are categorized as false or pseudodiverticula because they involve herniation of the mucosa and submucosa through the muscularis rather than outpouching of all layers of the organ wall. Penetration of the vasa recta into the muscularis creates mechanical weak points that can fail and allow the formation of these structures.</p><p>Incorrect Answers: A, C, D, and E.</p><p>Choice A: At the sites of mucosal folds is incorrect. Called haustral folds in the colon, these dynamic structures are formed by contraction of the inner layer of the muscularis, which runs circumferentially. They are not sites of mechanical weakness. Effacement of the haustra can be seen in ulcerative colitis.</p><p>Choice C: At the sites of prior tubular adenomas is incorrect. While prior resection of a lesion could theoretically cause a weak point because of scar tissue, the scar tissue would be in the mucosal or submucosal layer (from which the lesions originate), not the muscularis, and would therefore be less likely to form a diverticulum.</p><p>Choice D: At the sites of recurrent tubular adenomas is incorrect. While some literature suggests that patients with diverticulosis are more likely to have adenomas on colonoscopy, this is thought to be because of their similar risk factors (eg, increasing age, low dietary fiber).</p><p>Choice E: At the sites of submucosal degeneration is incorrect. While age-related loss of elasticity of multiple layers of the colonic wall has been implicated in the pathogenesis of diverticulosis, the weak points caused by the penetration of vasa recta into the muscularis are more likely to result in the formation of diverticula.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "options": [
+    {
+      "text_html": "At the sites of mucosal folds",
+      "is_correct": false
+    },
+    {
+      "text_html": "At the sites of penetration of vasa recta into the smooth muscle layer",
+      "is_correct": true
+    },
+    {
+      "text_html": "At the sites of prior tubular adenomas",
+      "is_correct": false
+    },
+    {
+      "text_html": "At the sites of recurrent tubular adenomas",
+      "is_correct": false
+    },
+    {
+      "text_html": "At the sites of submucosal degeneration",
+      "is_correct": false
+    }
+  ]
+}
