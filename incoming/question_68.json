@@ -1,0 +1,36 @@
+{
+  "id": 68,
+  "uworld_id": 68,
+  "text_html": "<p>An 18-year-old man comes to the office because of a 4-year history of joint pain in his hands and easy bruising. He says that the bruising now occurs with minimal trauma, such as hitting his hand against his keyboard. Examination of the hands shows the findings in the photograph. This patient most likely has a defect in which of the following labeled sites depicted in the drawing of a cross section of skin?</p><p><img src=\"question_68_1.png\"></p><p><img src=\"question_68_2.png\"></p>",
+  "explanation_html": "<p><b>Educational Objective: This patient presents with joint pain, easy bruising, and hypermobile joints, which are caused by deficiency of type V collagen, represented by label D, depicting the dermal layer of skin.</b></p><p>Evaluation: Patients with Ehlers-Danlos syndrome clinically present with hypermobile skin, joints, molluscoid pseudo-tumors over scars and pressure sites, and tissue fragility associated with abnormal collagen. Patients should undergo evaluation for extent of involvement, as some patients develop mitral valve prolapse or aortic dilatation. Patients should receive a baseline echocardiography on diagnosis. Referral to genetics for testing may allow for identification of gene mutations in patients with Ehlers-Danlos syndrome.</p><p>Definition: Ehlers-Danlos syndrome is an autosomal dominant disease, caused mainly by type V collagen mutation. There are multiple other subtypes and underlying causes. Type V collagen mutation decreases stability of collagen, causing many of the findings seen in patients with Ehlers-Danlos syndrome.</p><p>Prevention: There are no preventive measures for Ehlers-Danlos syndrome.</p><p>Treatment: There are no treatments for Ehlers-Danlos syndrome. Patients may require multidisciplinary care for complications associated with the disease.</p><p>Differential: Easy bruising, joint pain, and hypermobile joints are suggestive of Ehlers-Danlos syndrome. The most likely cause is deficiency in type V collagen seen in patients with Ehlers-Danlos syndrome.</p><p>Incorrect Answers: A, B, C, and E.</p><p>Choice A: A is incorrect. Label A depicts a terminal hair which is primarily composed of keratin. Ehlers-Danlos syndrome is most often caused by a mutation in collagen as opposed to keratin. Mutations in hair keratins may be associated with abnormalities of the skin, nails, or hair.</p><p>Choice B and Choice C: B and C are incorrect. Label B depicts the stratum corneum and label C depicts the epidermis, which are composed of keratinocytes, which produce keratin. Mutations in keratins may be associated with abnormalities of the skin, nails, or hair, as opposed to collagen.</p><p>Choice E: E is incorrect. Label E depicts an eccrine gland, which releases sweat onto the skin. Ehlers-Danlos syndrome is caused by deficits in type V collagen as opposed to mutations in the eccrine glands.</p>",
+  "subject": "",
+  "system": "",
+  "topic": "",
+  "source": "nbme-pdf",
+  "images": [
+    "question_68_1.png",
+    "question_68_2.png"
+  ],
+  "options": [
+    {
+      "text_html": "A",
+      "is_correct": false
+    },
+    {
+      "text_html": "B",
+      "is_correct": false
+    },
+    {
+      "text_html": "C",
+      "is_correct": false
+    },
+    {
+      "text_html": "D",
+      "is_correct": true
+    },
+    {
+      "text_html": "E",
+      "is_correct": false
+    }
+  ]
+}
